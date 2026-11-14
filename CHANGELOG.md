@@ -1,6 +1,17 @@
 # Changelog
 
-There Are No Incidents releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
+Incident Response for Small Teams releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
+
+## v0.1.1 - 2026-11-13
+
+### Changed
+- The project is now called Incident Response for Small Teams, in the README, LICENSE, NOTICE, TRADEMARK.md, attributions, and templates. The credit line in LICENSE and NOTICE uses the new name.
+- Notification guidance says that requirements vary by jurisdiction, sector, and contract, that a lawyer decides what applies, and that each deadline is an example from the rule named beside it. The notification worksheet says the same above its table.
+- The README says the scope is stable: the repository gets accuracy and source updates, and no new modules for now.
+
+### Fixed
+- The contracts section no longer gives a typical contract notice window without a source. It points to each contract's own wording.
+- The worksheet's Regulation S-P deadline counts 30 days from becoming aware, as the rule does.
 
 ## v0.1.0 - 2026-11-12
 
