@@ -1,4 +1,4 @@
-# There Are No Incidents
+# Incident response for small teams
 
 **Incident response training for small businesses: a runbook, playbooks, tabletop exercises, and templates.** Everything a small office needs to plan for a security incident, practice it, and handle a real one, in plain language and backed by primary sources.
 
