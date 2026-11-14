@@ -14,4 +14,4 @@ Copy these into your own documents and fill the blanks. An empty field is an ope
 | [After-action report](after-action-report.md) | Within two weeks of closing | The incident lead |
 | [Tabletop record](tabletop-record.md) | At the end of each exercise | The facilitator |
 
-Kept together, these are the records insurers, auditors, and regulators ask for: a written plan, proof it's practiced, and a record of each incident from report to lessons learned. SOC It 2 Me lists what a SOC 2 auditor asks for in its [incident evidence checklist](https://github.com/neon1llc/soc-it-2-me/blob/main/evidence/incidents.md).
+Kept together, these are the records insurers, auditors, and regulators ask for: a written plan, proof it's practiced, and a record of each incident from report to lessons learned. SOC 2 Readiness lists what a SOC 2 auditor asks for in its [incident evidence checklist](https://github.com/neon1llc/soc-2-readiness/blob/main/evidence/incidents.md).
