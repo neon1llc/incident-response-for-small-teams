@@ -4,9 +4,11 @@
 
 From [neon1](https://neon1.tech). *1 is glad to be of service.*
 
+**Status:** the scope is stable. This repository gets accuracy and source updates, and no new modules for now.
+
 ---
 
-"There are no incidents here" is usually what an office says right before it finds one. Most small businesses have a few a year: a mailbox someone else signed in to, a laptop left in a cab, an invoice paid to a fraudster's account. This kit is for handling them on purpose.
+Most small businesses have a few a year: a mailbox someone else signed in to, a laptop left in a cab, an invoice paid to a fraudster's account. This kit is for handling them on purpose.
 
 ## Who it's for
 
@@ -38,15 +40,15 @@ If something is happening right now, go to [the first hour](runbook/first-hour.m
 ## How it fits with neon1's other guides
 
 - [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go) is the reference: practice cards, and playbooks for households and individuals when something already went wrong.
-- [Phish Out of Water](https://github.com/neon1llc/phish-out-of-water) is a one-hour awareness session. It helps staff spot the scams that start most of the incidents here.
-- [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me) is SOC 2 readiness training. Its incident controls ask for a plan, a log, and a yearly tabletop, which this kit provides.
-- [You Have 20 Seconds To Comply](https://github.com/neon1llc/you-have-20-seconds-to-comply) explains the compliance rules, such as HIPAA and the FTC Safeguards Rule, whose notice duties appear in the notification rules here.
+- [Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit) is a one-hour awareness session. It helps staff spot the scams that start most of the incidents here.
+- [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness) is SOC 2 readiness training. Its incident controls ask for a plan, a log, and a yearly tabletop, which this kit provides.
+- [Compliance Basics](https://github.com/neon1llc/compliance-basics) explains the compliance rules, such as HIPAA and the FTC Safeguards Rule, whose notice duties appear in the notification rules here.
 
 Want neon1 to run a tabletop exercise for your team? See [neon1.tech](https://neon1.tech).
 
 ## What this isn't
 
-There Are No Incidents is training, not legal advice or an incident response service. Notification duties depend on the facts, the data, and where people live. Decide them with a lawyer. Rules change, so every page that relies on an outside fact lists its sources, and the [notification rules](reference/notification-rules.md) link to each rule's official text. NIST, CISA, the FTC, HHS, and the other sources are described here in our own words. See [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
+Incident Response for Small Teams is training, not legal advice or an incident response service. Notification duties vary by jurisdiction, sector, and contract, and depend on the facts and the data. Decide them with a lawyer. Deadlines here are examples, each with the law or rule it comes from named. Rules change, so every page that relies on an outside fact lists its sources, and the [notification rules](reference/notification-rules.md) link to each rule's official text. NIST, CISA, the FTC, HHS, and the other sources are described here in our own words. See [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
 
 ## Checking a change
 
@@ -58,10 +60,10 @@ node tools/check.mjs    # front matter on every page, and no broken links
 
 | What | License | What it means |
 |---|---|---|
-| Written material (everything except `tools/` and `.github/`) | [CC BY-SA 4.0](LICENSE) | Share it, teach from it, adapt it, even commercially. Credit it as *"Based on There Are No Incidents by neon1 (neon1.tech), CC BY-SA 4.0"* and share your changes under the same license. |
+| Written material (everything except `tools/` and `.github/`) | [CC BY-SA 4.0](LICENSE) | Share it, teach from it, adapt it, even commercially. Credit it as *"Based on Incident Response for Small Teams by neon1 (neon1.tech), CC BY-SA 4.0"* and share your changes under the same license. |
 | Code (`tools/`, `.github/`) | [MIT](LICENSE-CODE) | Use it for anything, keeping the copyright notice. |
-| The There Are No Incidents and neon1 names and the neon1 logo | Reserved | Not covered by either license. See [TRADEMARK.md](TRADEMARK.md). |
+| The Incident Response for Small Teams and neon1 names and the neon1 logo | Reserved | Not covered by either license. See [TRADEMARK.md](TRADEMARK.md). |
 
-There Are No Incidents is © 2026 neon1 LLC. Keep the [NOTICE](NOTICE) file in copies and adaptations.
+Incident Response for Small Teams is © 2026 neon1 LLC. Keep the [NOTICE](NOTICE) file in copies and adaptations.
 
 Found something wrong or outdated? See [SECURITY.md](SECURITY.md). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).

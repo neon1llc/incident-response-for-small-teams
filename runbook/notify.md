@@ -3,7 +3,7 @@ title: Notify
 description: "Who to tell after an incident, in what order, by when, and how to say it: insurer, lawyer, law enforcement, the people affected, regulators, and clients."
 ---
 
-Notification is where small businesses most often get hurt after the incident itself: a deadline missed because nobody knew it applied, or a message to clients that promised more than the facts supported. Decide who to notify with your lawyer. This page is the map, and [notification rules](../reference/notification-rules.md) lists the deadlines.
+Notification is where small businesses most often get hurt after the incident itself: a deadline missed because nobody knew it applied, or a message to clients that promised more than the facts supported. Decide who to notify with your lawyer. Requirements vary by jurisdiction, sector, and contract. This page is the map, and [notification rules](../reference/notification-rules.md) gives example deadlines, each with the rule it comes from.
 
 ## Who, in order
 
@@ -13,9 +13,9 @@ Notification is where small businesses most often get hurt after the incident it
 | First hours | **Your cyber insurer** | Many policies require prompt notice and pick the lawyers and forensics firm |
 | First day | **A lawyer**, ideally one who handles breaches | Decides which laws apply and whether a "breach" happened under each |
 | First days | **Law enforcement**: ic3.gov for fraud and intrusions, the FBI or Secret Service field office for large losses, and CISA at cisa.gov/report | Helps recover funds and find decryption keys, and some laws let them ask you to delay public notice |
-| As the law sets | **People whose information was exposed** | Every state requires it for certain personal information. New York allows 30 days from discovery |
+| As the law sets | **People whose information was exposed** | Every state requires it for certain personal information, on its own timeline. For example, New York's GBL § 899-aa requires notice without unreasonable delay and within 30 days of discovery |
 | As the law sets | **Regulators**: state attorneys general, the FTC, HHS, the IRS, and others | Depends on your industry, the data, and where affected people live |
-| As your contracts set | **Clients and partners** whose data you hold for them | Contracts and business associate agreements often require notice within days |
+| As your contracts set | **Clients and partners** whose data you hold for them | Contracts and business associate agreements often set their own notice deadlines |
 | When needed | **Staff** | They'll get questions, and some of their data may be involved too |
 
 ## The clock

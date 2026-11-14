@@ -1,6 +1,6 @@
 # Attributions
 
-There Are No Incidents is written in our own words. Each page lists the sources behind it. These are the main ones.
+Incident Response for Small Teams is written in our own words. Each page lists the sources behind it. These are the main ones.
 
 ## Primary sources
 
@@ -20,4 +20,4 @@ There Are No Incidents is written in our own words. Each page lists the sources 
 | Project | License | Used for |
 |---|---|---|
 | [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go) | CC BY-SA 4.0 | Household playbooks, the contact sheet, and the tabletop practice card this kit links to |
-| [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me) | CC BY-SA 4.0 | The incident evidence checklist the templates support |
+| [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness) | CC BY-SA 4.0 | The incident evidence checklist the templates support |

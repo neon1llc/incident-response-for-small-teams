@@ -39,7 +39,7 @@ Anyone who notices something unusual tells **______________________** at **_____
 
 ## 6. How we respond
 
-We follow the steps in There Are No Incidents: the first hour, contain, investigate, notify, recover, and learn. Our playbooks for specific incidents are kept at: ______________________
+We follow the steps in Incident Response for Small Teams: the first hour, contain, investigate, notify, recover, and learn. Our playbooks for specific incidents are kept at: ______________________
 
 ## 7. Communication
 
