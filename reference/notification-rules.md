@@ -3,7 +3,7 @@ title: Notification rules
 description: "U.S. federal and New York rules that set who a small business must notify after a data incident, and by when, with links to the rule text."
 ---
 
-This is a starting map for a conversation with your lawyer, not legal advice. Rules change, and each defines "breach," "personal information," and "discovery" in its own way. Every rule below is linked to its official text. Check it before relying on a deadline here.
+This is a starting map for a conversation with your lawyer, not legal advice. Notice requirements vary by jurisdiction, sector, and contract. This page covers only some U.S. federal rules and New York law, and other states and countries set their own. The deadlines below are examples, each from the rule named beside it. Rules change, and each defines "breach," "personal information," and "discovery" in its own way. Every rule below is linked to its official text. Check it before relying on a deadline here.
 
 ## Every business: state breach laws
 
@@ -32,7 +32,7 @@ All 50 states, the District of Columbia, and the U.S. territories have breach no
 
 ## Contracts
 
-Read your client contracts, business associate agreements, and vendor agreements. Many require notice within 24 to 72 hours of discovering an incident that touches the other party's data, which is often sooner than any law.
+Read your client contracts, business associate agreements, and vendor agreements. Many set their own notice window for an incident that touches the other party's data, and it can be shorter than any law's. The contract's own wording is what counts.
 
 ## Law enforcement and reporting lines
 

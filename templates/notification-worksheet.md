@@ -20,13 +20,15 @@ Fill this in with your lawyer once personal information may be involved. It isn'
 
 ## Rules that may apply
 
+The deadlines below are examples from the rule named in each row, not a complete list. Requirements vary by jurisdiction, sector, and contract, so confirm each one, and add any others, with your lawyer.
+
 | Rule or contract | Applies? | Deadline | Notice to | Decided by and date |
 |---|---|---|---|---|
 | State laws (list each state) | | | | |
 | New York GBL § 899-aa | | 30 days from discovery | Residents, AG, DOS, State Police, DFS if regulated | |
 | FTC Safeguards Rule (500 or more consumers) | | 30 days from discovery | FTC | |
 | HIPAA | | 60 days from discovery | Individuals, HHS, media if more than 500 in a state | |
-| Regulation S-P | | 30 days | Individuals | |
+| Regulation S-P | | 30 days after becoming aware | Individuals | |
 | 23 NYCRR 500.17 | | 72 hours | DFS | |
 | IRS (tax preparers) | | As soon as known | Stakeholder Liaison, state tax agencies | |
 | Card brands and processor | | Per merchant agreement | Processor | |
