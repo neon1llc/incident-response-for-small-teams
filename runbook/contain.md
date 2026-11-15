@@ -3,11 +3,11 @@ title: Contain
 description: "Cut off the attacker's access and stop the spread without destroying the evidence you'll need to decide who to notify."
 ---
 
-Containment trades two things against each other: stopping harm fast, and keeping the evidence that shows what happened. Without evidence you can't show that data *wasn't* taken, and some notification rules then presume that it was. When the two conflict, stop money and ongoing harm first, and preserve evidence second.
+Containment balances stopping harm fast against keeping the evidence of what happened. Without evidence you can't show that data *wasn't* taken, and some notification rules then presume it was. When the two conflict, stop money and ongoing harm first, and preserve evidence second.
 
 ## Short-term containment
 
-Do these in the first hours, from a device you trust.
+Do these in the first hours, from a trusted device.
 
 | If | Do | Don't |
 |---|---|---|
@@ -28,14 +28,14 @@ Do these in the first hours, from a device you trust.
 
 ## Long-term containment
 
-Once the immediate threat is cut off, keep the business running while the investigation finishes:
+Once the immediate threat is cut off, keep the business running during the investigation:
 
 - Move people to known-clean devices or temporary accounts.
 - Block the attacker's known addresses, domains, and file names at the firewall and email filter.
 - Require MFA everywhere it isn't yet, starting with email and admin accounts.
 - Keep watching sign-in logs. Attackers who lose one way in often try another within days.
 
-Containment is done when the tech lead can say how the attacker got in and that every known way in is closed. Until then, treat the incident as active.
+Containment is done when the tech lead can say how the attacker got in and that every known way in is closed. Until then, the incident is active.
 
 ## Sources
 

@@ -3,7 +3,7 @@ title: Notify
 description: "Who to tell after an incident, in what order, by when, and how to say it: insurer, lawyer, law enforcement, the people affected, regulators, and clients."
 ---
 
-Notification is where small businesses most often get hurt after the incident itself: a deadline missed because nobody knew it applied, or a message to clients that promised more than the facts supported. Decide who to notify with your lawyer. Requirements vary by jurisdiction, sector, and contract. This page is the map, and [notification rules](../reference/notification-rules.md) gives example deadlines, each with the rule it comes from.
+Small businesses often get hurt here after the incident itself: a deadline missed because nobody knew it applied, or a message to clients that promised more than the facts supported. Decide who to notify with your lawyer. Requirements vary by jurisdiction, sector, and contract. This page is the map, and [notification rules](../reference/notification-rules.md) gives example deadlines, each with the rule it comes from.
 
 ## Who, in order
 
@@ -26,7 +26,7 @@ A law enforcement agency can ask you to delay notice so it doesn't harm an inves
 
 ## Working out what applies
 
-The [notification worksheet](../templates/notification-worksheet.md) walks through the facts your lawyer will ask for:
+The [notification worksheet](../templates/notification-worksheet.md) covers the facts your lawyer will ask for:
 
 1. **What kinds of data** were in reach? Names with Social Security numbers, driver's license numbers, financial account numbers, health information, and account passwords trigger most laws.
 2. **Was it encrypted**, and was the key also exposed?
@@ -44,7 +44,7 @@ A notice to affected people should say, in plain words:
 - What they can do: change passwords, watch accounts, place a fraud alert or credit freeze, and file an IRS Identity Protection PIN request if tax data was involved.
 - How to reach you with questions.
 
-Don't guess, and don't minimize. "We have no evidence that your information was misused" is only fair to write when you looked and found none. Have the lawyer approve every outside message, and give staff a short script so everyone says the same thing.
+Don't guess, and don't minimize. "We have no evidence that your information was misused" is fair only when you looked and found none. Have the lawyer approve every outside message, and give staff a short script.
 
 ## Sources
 

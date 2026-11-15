@@ -3,7 +3,7 @@ title: Recover
 description: "Get back to normal safely: remove the attacker's foothold, rebuild and restore in priority order, and watch for a return."
 ---
 
-Recovery starts once containment is done and the tech lead can explain how the attacker got in. Restoring before that point often restores the attacker too.
+Start recovery once containment is done and the tech lead can explain how the attacker got in. Restoring sooner often restores the attacker too.
 
 ## Clean up
 
@@ -26,7 +26,7 @@ Recovery starts once containment is done and the tech lead can explain how the a
 
 ## Close the incident
 
-The incident lead closes it when systems are restored, notifications are done or scheduled, and nothing suspicious has turned up for an agreed period. Write the closing date and reason in the [incident log](../templates/incident-log.md), then schedule the review in [learn](learn.md).
+The incident lead closes it when systems are restored, notifications are done or scheduled, and nothing suspicious has turned up for an agreed period. Log the closing date and reason in the [incident log](../templates/incident-log.md), then schedule the review in [learn](learn.md).
 
 ## Sources
 

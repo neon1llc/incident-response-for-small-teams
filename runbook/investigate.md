@@ -3,7 +3,7 @@ title: Investigate
 description: "Find out what happened, how the attacker got in, how long they were there, and whose information they could reach."
 ---
 
-The investigation answers the questions every later decision depends on. For a level 1 or 2 incident, the forensics firm (often assigned by your insurer, through your lawyer) leads it. Your job is to preserve what they need and answer their questions quickly.
+Every later decision depends on the answers here. For a level 1 or 2 incident, the forensics firm (often assigned by your insurer, through your lawyer) leads. Your job is to preserve what they need and answer their questions quickly.
 
 ## The five questions
 
@@ -27,15 +27,15 @@ The answer to question 5 drives [notify](notify.md). "We don't know what they op
 | Bank and payment records | Transfers, payee changes, card activity | Online banking and the payment processor |
 | People | What they clicked, opened, approved, or were asked to do | Short interviews, written down the same day |
 
-Export logs to files and store them outside the affected accounts. Note who exported them and when. A simple record like this is your chain of custody if the incident ever reaches a regulator or a court.
+Export logs to files and store them outside the affected accounts. Note who exported them and when. That record is your chain of custody if the incident reaches a regulator or a court.
 
 ## Working with lawyers and forensics
 
-When a lawyer hires the forensics firm, their findings may be protected as legal advice. That protection is the lawyer's call to make and keep, so route forensics requests and reports through them. Keep your own log factual: what was seen and done, not guesses about blame.
+When a lawyer hires the forensics firm, its findings may be protected as legal advice. That protection is the lawyer's call, so route forensics requests and reports through them. Keep your own log factual: what was seen and done, not guesses about blame.
 
 ## When you're done
 
-Write a short summary in the log: how they got in, the dates of access, what was reached, what was taken or changed, and the evidence for each. This summary feeds the [notification worksheet](../templates/notification-worksheet.md) and the [after-action report](../templates/after-action-report.md).
+Write a short summary in the log: how they got in, the dates of access, what was reached, what was taken or changed, and the evidence for each. It feeds the [notification worksheet](../templates/notification-worksheet.md) and the [after-action report](../templates/after-action-report.md).
 
 ## Sources
 

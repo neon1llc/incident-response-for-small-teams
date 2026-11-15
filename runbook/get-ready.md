@@ -3,15 +3,15 @@ title: Get ready
 description: "The work to do before an incident: a one-page plan, a contact sheet, the logs and backups you'll need, insurance, and a yearly drill."
 ---
 
-Most of what goes wrong in an incident was decided months earlier: nobody knew who could approve shutting the office down, the insurer's number was in the hacked mailbox, or the backups had never been restored. An afternoon of preparation fixes most of that.
+Most of what goes wrong in an incident was decided months earlier: nobody knew who could approve shutting the office down, the insurer's number was in the hacked mailbox, or the backups had never been restored. An afternoon of preparation fixes that.
 
 ## The checklist
 
 - [ ] **Write the plan.** Fill in the one-page [response plan](../templates/response-plan.md): roles and a backup for each, severity levels, who may approve what, and when a decision moves up to the owner. Have the owner sign it.
 - [ ] **Fill in the contact sheet.** The [contact sheet](../templates/contact-sheet.md) lists your IT provider's after-hours number, insurer claim line and policy number, lawyer, bank fraud line, and key vendors. Print it. Keep one copy in the office and one at the lead's home.
-- [ ] **Agree on a backup channel.** Decide now how you'll talk if email and chat are compromised: a group text, a phone tree, or a call bridge. Don't discuss an incident inside an account the attacker might be reading.
-- [ ] **Know what you have.** Keep a short list of systems (email, file storage, accounting, line-of-business software, website), who administers each, and where personal information lives. You can't decide who to notify without it.
-- [ ] **Turn on the logs.** Make sure sign-in and audit logs are on for email and cloud accounts, and kept for at least 90 days, longer where your plan allows. Many small-business plans keep very little by default.
+- [ ] **Agree on a backup channel.** Decide how you'll talk if email and chat are compromised: a group text, a phone tree, or a call bridge.
+- [ ] **Know what you have.** List your systems (email, file storage, accounting, line-of-business software, website), who administers each, and where personal information lives. You can't decide who to notify without it.
+- [ ] **Turn on the logs.** Turn on sign-in and audit logs for email and cloud accounts, and keep them at least 90 days, longer where your plan allows. Many small-business plans keep very little by default.
 - [ ] **Test a restore.** Back up what you can't lose, with one copy offline or immutable, and restore a real file from it every quarter.
 - [ ] **Read your insurance policy.** Find out whether you have cyber coverage, how fast you must report, and whether you have to use the insurer's lawyers and forensics firms. Using your own can cost you coverage.
 - [ ] **Line up help.** Know which forensics firm you'd call (often the insurer's), and get your IT provider's incident terms in writing: hours, rates, and what they will and won't do.
@@ -20,7 +20,7 @@ Most of what goes wrong in an incident was decided months earlier: nobody knew w
 
 ## What regulators expect
 
-Several rules require a written incident response plan, not only good intentions. The FTC Safeguards Rule, which covers tax preparers, mortgage brokers, car dealers that arrange financing, and other non-bank financial businesses, requires one. So does the HIPAA Security Rule for health practices and their business associates. Insurers ask about it on renewal forms, and SOC 2 auditors test it. The [response plan](../templates/response-plan.md) template covers the elements they look for. See [notification rules](../reference/notification-rules.md) for which rules may apply to you.
+Several rules require a written incident response plan. The FTC Safeguards Rule, which covers tax preparers, mortgage brokers, car dealers that arrange financing, and other non-bank financial businesses, requires one. So does the HIPAA Security Rule for health practices and their business associates. Insurers ask about it on renewal forms, and SOC 2 auditors test it. The [response plan](../templates/response-plan.md) template covers the elements they look for. See [notification rules](../reference/notification-rules.md) for which rules may apply to you.
 
 ## Sources
 

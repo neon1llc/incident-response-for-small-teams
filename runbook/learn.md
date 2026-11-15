@@ -3,7 +3,7 @@ title: Learn
 description: "Run a blameless after-action review within two weeks, turn findings into owned fixes, and update the plan."
 ---
 
-The after-action review is how one incident makes the next one smaller. Hold it within two weeks of closing, while memories are fresh, for every level 1 or 2 incident and any level 3 that surprised you.
+The after-action review makes the next incident smaller. Hold it within two weeks of closing, for every level 1 or 2 incident and any level 3 that surprised you.
 
 ## Run the review
 
@@ -23,7 +23,6 @@ Walk the [incident log](../templates/incident-log.md) in order, then ask:
 - Keep the list short. Three fixes that get done beat ten that don't.
 - Give every fix an owner and a date, and check them at the next staff meeting.
 - Update the [response plan](../templates/response-plan.md), [contact sheet](../templates/contact-sheet.md), and any [playbook](../playbooks/index.md) that was wrong or missing.
-- If the incident exposed a gap staff should know about, cover it at the next team meeting.
 
 ## Keep the record
 
