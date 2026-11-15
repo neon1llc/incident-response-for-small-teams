@@ -7,9 +7,9 @@ description: "How to prepare, run, and close a tabletop exercise for a small tea
 
 ## Before the day
 
-1. **Pick the exercise** that matches a real risk for this business. If you don't know, start with [the wire that wasn't](01-the-wire-that-wasnt.md).
+1. **Pick the exercise** that matches a real risk for this business. If unsure, start with [the wire that wasn't](01-the-wire-that-wasnt.md).
 2. **Agree on two or three objectives** with the owner, such as "find out whether we can reach the insurer without email" or "decide who approves disconnecting the office."
-3. **Make it local.** Swap in the business's real systems, vendors, and job titles. A scenario about "the accounting system" lands better as "QuickBooks" or "Drake."
+3. **Make it local.** Swap in the business's real systems, vendors, and job titles, such as "QuickBooks" or "Drake" for "the accounting system."
 4. **Invite the people who'd be involved in a real incident:** the owner, the person who handles money, whoever runs IT (or the MSP), and whoever talks to clients. Small teams can include everyone.
 5. **Don't share the scenario in advance.** Share the date, the length, and that it's a discussion, not a test.
 
@@ -47,9 +47,9 @@ For 60 minutes, use three injects and skip curveballs.
 
 - **Ask, don't tell.** "Who would do that?" "How would you reach them?" "Where's that number written down?"
 - **Push for specifics.** "We'd call IT" becomes "Who calls, on what number, and what if it's 7pm Friday?"
-- **Let silence work.** Wait before filling a pause. The gap is often the finding.
-- **Note gaps without solving them.** Write them down and move on. Fixing comes after.
-- **Keep one voice from dominating.** Ask the quieter people directly, especially the person who'd be the first to notice.
+- **Let silence work.** The gap is often the finding.
+- **Note gaps without solving them.** Write them down and move on.
+- **Keep one voice from dominating.** Ask quieter people directly, especially whoever would notice first.
 
 ## The hotwash
 
@@ -60,7 +60,7 @@ Spend the last 15 minutes on these questions, then go around the table so everyo
 3. What do we need that we don't have?
 4. What are the three fixes we'll make, who owns each, and by when?
 
-Within a week, send the completed [tabletop record](../templates/tabletop-record.md) to everyone, and put the fixes on the agenda of the next staff meeting. Keep the record. It's proof for insurers and auditors that the plan is practiced.
+Within a week, send the completed [tabletop record](../templates/tabletop-record.md) to everyone and put the fixes on the next staff meeting agenda. Keep the record. It's proof for insurers and auditors that the plan is practiced.
 
 ## Sources
 

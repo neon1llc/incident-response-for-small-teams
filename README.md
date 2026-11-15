@@ -1,6 +1,6 @@
 # Incident response for small teams
 
-**Incident response training for small businesses: a runbook, playbooks, tabletop exercises, and templates.** Everything a small office needs to plan for a security incident, practice it, and handle a real one, in plain language and backed by primary sources.
+**Incident response training for small businesses: a runbook, playbooks, tabletop exercises, and templates.** What a small office needs to plan for a security incident, practice it, and handle a real one, in plain language with primary sources.
 
 From [neon1](https://neon1.tech). *1 is glad to be of service.*
 
@@ -8,13 +8,13 @@ From [neon1](https://neon1.tech). *1 is glad to be of service.*
 
 ---
 
-Most small businesses have a few a year: a mailbox someone else signed in to, a laptop left in a cab, an invoice paid to a fraudster's account. This kit is for handling them on purpose.
+Most small businesses have a few a year: a mailbox someone else signed in to, a laptop left in a cab, an invoice paid to a fraudster's account. This kit helps you handle them on purpose.
 
 ## Who it's for
 
 - **Owners and office managers** of businesses with 2 to 50 people, especially those holding client financial, tax, or health information.
 - **The person who handles IT**, whether on staff or at a managed service provider.
-- **Trainers and consultants** who want an open, adaptable kit to run exercises from.
+- **Trainers and consultants** who want an open kit to run exercises from.
 
 You don't need a security background. You do need someone who will own the plan.
 
@@ -30,7 +30,7 @@ You don't need a security background. You do need someone who will own the plan.
 
 ## Start here
 
-1. Read the [runbook](runbook/index.md) once, start to finish. It takes about 30 minutes.
+1. Read the [runbook](runbook/index.md) once, start to finish, in about 30 minutes.
 2. Fill in the [response plan](templates/response-plan.md) and [contact sheet](templates/contact-sheet.md), and print both.
 3. Within a month, run [the wire that wasn't](tabletops/01-the-wire-that-wasnt.md) or [reply all](tabletops/06-reply-all.md) with your team, using the [facilitator guide](tabletops/facilitator-guide.md).
 4. Fix the top three gaps it finds, then run a different exercise next year.

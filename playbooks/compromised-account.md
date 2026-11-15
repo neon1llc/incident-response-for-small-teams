@@ -24,7 +24,7 @@ From a clean device, with an admin account:
 
 ## Notification questions
 
-The mailbox is the issue. Years of client email often hold tax documents, IDs, account numbers, and health information. If the audit log shows what was opened, scope notice to that. If it doesn't, plan on treating everything the account could reach as exposed, and work through [notify](../runbook/notify.md).
+Years of client email often hold tax documents, IDs, account numbers, and health information. If the audit log shows what was opened, scope notice to that. If it doesn't, treat everything the account could reach as exposed, and work through [notify](../runbook/notify.md).
 
 ## Prevent the next one
 

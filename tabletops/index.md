@@ -3,9 +3,9 @@ title: Tabletop exercises
 description: "Six ready-to-run tabletop exercises for small businesses, each 60 to 90 minutes, built around the incidents they see most."
 ---
 
-A tabletop exercise is a structured "what would we do if...?" conversation around a table. Nobody touches a real system. The facilitator reveals a scenario in stages, and the team talks through what they'd know, do, and decide at each one. It's the cheapest way to learn that the insurer's number lives only in the mailbox you'd lose first.
+A tabletop exercise is a "what would we do if...?" conversation around a table. Nobody touches a real system. The facilitator reveals a scenario in stages, and the team talks through what they'd know, do, and decide at each one. It's the cheapest way to learn that the insurer's number lives only in the mailbox you'd lose first.
 
-Start with the [facilitator guide](facilitator-guide.md). It covers preparation, ground rules, timing, and the hotwash at the end.
+Start with the [facilitator guide](facilitator-guide.md).
 
 ## The exercises
 
@@ -30,7 +30,7 @@ Each one matches a [playbook](../playbooks/index.md), so the team can check its 
 
 ## How often
 
-Once a year at minimum, and after a big change to staff, systems, or vendors. Rotate scenarios so each year tests something new, and rotate who plays incident lead, so the backup gets practice too.
+Once a year at minimum, and after a big change to staff, systems, or vendors. Rotate scenarios, and rotate who plays incident lead so the backup gets practice.
 
 ## Sources
 

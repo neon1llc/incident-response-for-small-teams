@@ -3,7 +3,7 @@ title: The first hour
 description: "What to do in the first 60 minutes after someone reports something wrong: declare, assign, stop the money, contain, call, and write it all down."
 ---
 
-Print this page. The first hour decides how much the rest costs, and most of the damage that's preventable is prevented here.
+Print this page. The first hour decides how much the rest costs.
 
 ## Minute 0 to 10: take the report
 
@@ -13,11 +13,11 @@ Print this page. The first hour decides how much the rest costs, and most of the
 
 ## Minute 10 to 20: declare and assign
 
-4. **Declare it out loud**, by call or text on your backup channel, not by email if email might be involved. A short script keeps it clear: "This is a level 2 incident. I'm leading. Dana is scribe, Sam is tech lead. We'll talk again at 10:30."
+4. **Declare it out loud**, by call or text on your backup channel, not by email if email might be involved. For example: "This is a level 2 incident. I'm leading. Dana is scribe, Sam is tech lead. We'll talk again at 10:30."
    Give the incident a plain two-word codename, such as "Blue Kettle," and use it in file names, chats, and calendar holds. It keeps words like "breach" out of messages before anyone knows that's what it is.
 5. **Name the roles:** tech lead, scribe, and communications. The scribe opens the [incident log](../templates/incident-log.md) now, and backfills the first 20 minutes.
-6. **Set the next check-in time**, about every 30 minutes at first. Check-ins keep people from working in parallel on the same thing or on nothing, and between them, let people work.
-   Don't debate the severity level or the process now. Act on the higher level, and raise disagreements at the [review](learn.md).
+6. **Set the next check-in time**, about every 30 minutes at first. Between check-ins, let people work.
+   Don't debate severity or process now. Act on the higher level, and raise disagreements at the [review](learn.md).
 
 ## Minute 20 to 40: stop the damage
 

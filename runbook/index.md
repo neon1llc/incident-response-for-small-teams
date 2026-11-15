@@ -3,7 +3,7 @@ title: The runbook
 description: "How a small business handles a security incident, from the first report to the lessons learned, in the order the work happens."
 ---
 
-The runbook is written to be followed under stress by people who don't do security for a living. Read it once now, print the [first hour](first-hour.md), and keep a copy somewhere other than the computers it's meant to protect.
+Written for people who don't do security for a living, to follow under stress. Read it once now, print the [first hour](first-hour.md), and keep a copy somewhere other than the computers it protects.
 
 ## The pages, in order
 
@@ -18,11 +18,11 @@ The runbook is written to be followed under stress by people who don't do securi
 | Days to weeks | [Recover](recover.md) | Clean rebuilds, safe restores, and watching for a return |
 | Within two weeks | [Learn](learn.md) | The after-action review and the fixes that come out of it |
 
-For a specific kind of incident, the [playbooks](../playbooks/index.md) add what's different about it. To practice before you need any of this, run a [tabletop exercise](../tabletops/index.md).
+For a specific kind of incident, the [playbooks](../playbooks/index.md) add what's different. To practice first, run a [tabletop exercise](../tabletops/index.md).
 
 ## The roles
 
-Every incident has these four jobs. In a small office one person may hold two, but the lead and the scribe should be different people.
+Every incident has these four jobs. One person may hold two, but the lead and the scribe should be different people.
 
 | Role | Does | Usually |
 |---|---|---|
@@ -31,20 +31,20 @@ Every incident has these four jobs. In a small office one person may hold two, b
 | **Scribe** | Keeps the [incident log](../templates/incident-log.md): every fact, decision, and action, with the time | Anyone calm and careful |
 | **Communications** | Talks to staff, clients, and anyone outside, using wording the lead and lawyer approved | The office manager or owner |
 
-Outside help joins as advisors: your cyber insurer's breach coach, a lawyer, and a forensics firm. They advise, and the incident lead still decides.
+Outside help (your cyber insurer's breach coach, a lawyer, a forensics firm) advises. The incident lead still decides.
 
 ## Mistakes that make incidents worse
 
-- **Waiting to be sure.** Report and declare early. Standing down a false alarm costs minutes, and a late start can cost a notification deadline.
-- **Cleaning up first.** Wiping a laptop or deleting the attacker's rules feels like progress and destroys the evidence that shows what was taken.
-- **Talking in the compromised account.** Discuss the incident by phone or the backup channel, not in the mailbox or chat the attacker may be reading.
+- **Waiting to be sure.** Declare early. Standing down a false alarm costs minutes, and a late start can cost a notification deadline.
+- **Cleaning up first.** Wiping a laptop or deleting the attacker's rules destroys the evidence that shows what was taken.
+- **Talking in the compromised account.** Use the phone or the backup channel, not a mailbox or chat the attacker may be reading.
 - **Everyone on everything.** Name the roles, let each person own one thing, and keep check-ins short and regular.
 - **Hiring help before calling the insurer.** Many policies only pay for the firms they assign.
 - **Skipping the review.** The same gap causes the next incident.
 
 ## How it maps to NIST
 
-NIST SP 800-61 Rev. 3 organizes incident response around the six functions of the NIST Cybersecurity Framework (CSF) 2.0. This runbook follows the same shape in fewer words.
+NIST SP 800-61 Rev. 3 organizes incident response around the six functions of the NIST Cybersecurity Framework (CSF) 2.0. This runbook follows the same shape.
 
 | CSF 2.0 function | Runbook page |
 |---|---|
