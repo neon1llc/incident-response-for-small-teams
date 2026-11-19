@@ -2,6 +2,12 @@
 
 Incident Response for Small Teams releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
 
+## v0.1.4 - 2026-11-19
+
+### Changed
+- Removed the claim about how many incidents small businesses see a year, and the description of the kit as complete. The README, runbook, and playbooks say to adapt the material to your own plan and providers.
+- Added a starting path for teams that already have a response plan.
+
 ## v0.1.3 - 2026-11-19
 
 ### Changed

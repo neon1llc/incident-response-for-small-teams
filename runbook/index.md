@@ -3,7 +3,7 @@ title: The runbook
 description: "How a small business handles a security incident, from the first report to the lessons learned, in the order the work happens."
 ---
 
-Written for people who don't do security for a living, to follow under stress. Read it once now, print the [first hour](first-hour.md), and keep a copy somewhere other than the computers it protects.
+Written for people who don't do security for a living, to follow under stress. Before you adopt it, confirm roles, systems, escalation, and legal requirements with the people responsible. Print the [first hour](first-hour.md) and keep a copy somewhere other than the computers it protects.
 
 ## The pages, in order
 

@@ -1,6 +1,6 @@
 # Incident response for small teams
 
-**Incident response training for small businesses: a runbook, playbooks, tabletop exercises, and templates.** What a small office needs to plan for a security incident, practice it, and handle a real one, in plain language with primary sources.
+**Incident response preparation for small teams: a runbook, playbooks, tabletop exercises, and templates.** Adapt it to your systems, who is responsible, any response arrangements you already have, and your legal requirements. It cites primary sources.
 
 From [neon1](https://neon1.tech). *1 is glad to be of service.*
 
@@ -8,7 +8,7 @@ From [neon1](https://neon1.tech). *1 is glad to be of service.*
 
 ---
 
-Most small businesses have a few a year: a mailbox someone else signed in to, a laptop left in a cab, an invoice paid to a fraudster's account. This kit helps you handle them on purpose.
+Use it to rehearse a specific risk, review a response plan, or settle how you work with an IT or security provider. The scenarios are business email compromise, ransomware, a lost device, a compromised account, a vendor breach, and misdirected data.
 
 ## Who it's for
 
@@ -16,14 +16,14 @@ Most small businesses have a few a year: a mailbox someone else signed in to, a 
 - **The person who handles IT**, whether on staff or at a managed service provider.
 - **Trainers and consultants** who want an open kit to run exercises from.
 
-You don't need a security background. You do need someone who will own the plan.
+You don't need a security background. You do need someone who will own the plan. If you already have a plan, start with the tabletop exercises and use what they find to review your controls and escalation paths.
 
 ## What's inside
 
 | Folder | What it holds |
 |---|---|
 | [`runbook/`](runbook/index.md) | The response, step by step: get ready, is this an incident, the first hour, contain, investigate, notify, recover, and learn. |
-| [`playbooks/`](playbooks/index.md) | What's different about the six incidents small businesses see most: business email compromise, ransomware, a lost device, a compromised account, a vendor breach, and misdirected data. |
+| [`playbooks/`](playbooks/index.md) | Guidance for six incident types: business email compromise, ransomware, a lost device, a compromised account, a vendor breach, and misdirected data. |
 | [`tabletops/`](tabletops/index.md) | A [facilitator guide](tabletops/facilitator-guide.md) and six 60 to 90 minute exercises, one for each playbook, with staged injects, questions, and what good looks like. |
 | [`templates/`](templates/index.md) | A one-page response plan, a contact sheet, an incident log, a notification worksheet, an after-action report, and a tabletop record. |
 | [`reference/`](reference/notification-rules.md) | [Notification rules](reference/notification-rules.md) (U.S. federal and New York) with deadlines and links to the rule text, and a [glossary](reference/glossary.md). |
