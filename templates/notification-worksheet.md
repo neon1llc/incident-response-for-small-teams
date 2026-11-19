@@ -27,7 +27,7 @@ The deadlines below are examples from the rule named in each row, not a complete
 | State laws (list each state) | | | | |
 | New York GBL § 899-aa | | 30 days from discovery | Residents, AG, DOS, State Police, DFS if regulated | |
 | FTC Safeguards Rule (500 or more consumers) | | 30 days from discovery | FTC | |
-| HIPAA | | 60 days from discovery | Individuals, HHS, media if more than 500 in a state | |
+| HIPAA | | Without unreasonable delay, and within 60 days of discovery | Individuals, HHS, media if more than 500 in a state | |
 | Regulation S-P | | 30 days after becoming aware | Individuals | |
 | 23 NYCRR 500.17 | | 72 hours | DFS | |
 | IRS (tax preparers) | | As soon as known | Stakeholder Liaison, state tax agencies | |

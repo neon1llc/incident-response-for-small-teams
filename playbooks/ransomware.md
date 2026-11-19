@@ -21,7 +21,7 @@ description: "Files are locked and there's a ransom note: isolate, call the insu
 
 ## About paying
 
-Paying is a business and legal decision made with your insurer, lawyer, and responders. Payment doesn't guarantee working decryption or deletion of stolen data, and paying a sanctioned group can violate U.S. sanctions law. If you're a DFS-regulated business in New York, a ransom payment has its own 24-hour notice. See [notification rules](../reference/notification-rules.md).
+Paying is a business and legal decision made with your insurer, lawyer, and responders. The U.S. government strongly discourages paying. Payment doesn't guarantee working decryption or deletion of stolen data, and paying a sanctioned group can violate U.S. sanctions law. If you're a DFS-regulated business in New York, a ransom payment has its own 24-hour notice. See [notification rules](../reference/notification-rules.md).
 
 ## Notification questions
 

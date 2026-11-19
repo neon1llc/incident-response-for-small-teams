@@ -26,7 +26,7 @@ Walk the [incident log](../templates/incident-log.md) in order, then ask:
 
 ## Keep the record
 
-File the [after-action report](../templates/after-action-report.md) with the incident log, the notification worksheet, and copies of every notice sent. Insurers, auditors, and regulators may ask for them, and the FTC Safeguards Rule requires covered businesses to evaluate and revise their incident response plan after a security event.
+File the [after-action report](../templates/after-action-report.md) with the incident log, the notification worksheet, and copies of every notice sent. Insurers, auditors, and regulators may ask for them, and the FTC Safeguards Rule requires covered businesses that hold information on 5,000 or more consumers to evaluate and revise their incident response plan after a security event.
 
 ## Sources
 
