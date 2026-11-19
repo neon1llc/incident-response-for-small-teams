@@ -20,7 +20,7 @@ Most of what goes wrong in an incident was decided months earlier: nobody knew w
 
 ## What regulators expect
 
-Several rules require a written incident response plan. The FTC Safeguards Rule, which covers tax preparers, mortgage brokers, car dealers that arrange financing, and other non-bank financial businesses, requires one. So does the HIPAA Security Rule for health practices and their business associates. Insurers ask about it on renewal forms, and SOC 2 auditors test it. The [response plan](../templates/response-plan.md) template covers the elements they look for. See [notification rules](../reference/notification-rules.md) for which rules may apply to you.
+Several rules require a written incident response plan. The FTC Safeguards Rule, which covers tax preparers, mortgage brokers, some car dealers, and other non-bank financial businesses, requires one, unless you hold information on fewer than 5,000 consumers. So does the HIPAA Security Rule for health practices and their business associates. Insurers ask about it on renewal forms, and SOC 2 auditors test it. The [response plan](../templates/response-plan.md) template covers the elements they look for. See [notification rules](../reference/notification-rules.md) for which rules may apply to you.
 
 ## Sources
 
@@ -28,6 +28,7 @@ Several rules require a written incident response plan. The FTC Safeguards Rule,
 - [Small Business Guide: Response and Recovery](https://www.ncsc.gov.uk/collection/small-business-guidance--response-and-recovery/step-1-prepare-for-incidents), from the UK National Cyber Security Centre: cover for absence, decision trigger points, and keeping contacts reachable.
 - [Incident Response Plan Basics](https://www.cisa.gov/sites/default/files/publications/Incident-Response-Plan-Basics_508c.pdf), from CISA: plan elements, roles, and a backup communication channel.
 - [16 CFR 314.4](https://www.ecfr.gov/current/title-16/section-314.4), FTC Safeguards Rule: the required written incident response plan, at paragraph (h).
+- [16 CFR 314.6](https://www.ecfr.gov/current/title-16/section-314.6), FTC Safeguards Rule: the written plan requirement doesn't apply to institutions holding information on fewer than 5,000 consumers.
 - [45 CFR 164.308](https://www.ecfr.gov/current/title-45/section-164.308), HIPAA Security Rule: security incident procedures and contingency planning.
 - [Ransomware Guide](https://www.cisa.gov/stopransomware/ransomware-guide), from CISA: offline backups, restore testing, and log retention.
 - [Safeguarding Taxpayer Data](https://www.irs.gov/pub/irs-pdf/p4557.pdf), IRS Publication 4557: security and incident planning for tax professionals.

@@ -27,7 +27,7 @@ description: "A payment went to a fraudster after an email asked for new bank de
 
 ## Prevent the next one
 
-Make "any change to where money goes gets a callback to a number already on file" a written rule with no exceptions. Require MFA on every mailbox. Ask your bank about payee verification and dual approval for new payees.
+Make "any change to where money goes gets a callback to a number already on file" a written rule with no exceptions. Require MFA on every mailbox. Have your IT provider set up SPF, DKIM, and DMARC for your domain, so it's harder to spoof. Ask your bank about payee verification and dual approval for new payees.
 
 Ready, Secure, Go has the practice card: [Never change payment details on the strength of an email](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/scams-and-social-engineering/scam-payment-change-verification.md).
 
@@ -35,4 +35,5 @@ Ready, Secure, Go has the practice card: [Never change payment details on the st
 
 - [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and payroll fraud, and calling the bank and IC3 at once.
 - [Internet Crime Complaint Center](https://www.ic3.gov/), from the FBI: reporting, and fast reports that sometimes let the FBI freeze funds.
-- [Business email imposters](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity/business-email-imposters), from the FTC: look-alike domains and email authentication.
+- [2025 Internet Crime Report](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf), from the FBI IC3: ask your bank to recall the funds right away, and file at ic3.gov whatever the amount, so the Recovery Asset Team can try to freeze them.
+- [Cybersecurity for small business](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity), from the FTC: business email imposters, look-alike domains, and SPF, DKIM, and DMARC.

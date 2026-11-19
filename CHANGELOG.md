@@ -2,6 +2,15 @@
 
 Incident Response for Small Teams releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
 
+## v0.1.3 - 2026-11-19
+
+### Changed
+- The FTC Safeguards Rule's written-plan requirement is described with its exemption below 5,000 consumers.
+- HIPAA rows say "without unreasonable delay and within 60 days". Regulation S-P compliance dates and a New York section 899-bb line were added.
+- The notification reference says to call your lawyer and cyber insurer first.
+- The business email compromise playbook adds SPF, DKIM, and DMARC. The ransomware playbook adds the U.S. government's position on paying.
+- "Proof" is "evidence" where it overstated, and a dead FTC link was fixed.
+
 ## v0.1.2 - 2026-11-15
 
 ### Changed

@@ -60,7 +60,7 @@ Spend the last 15 minutes on these questions, then go around the table so everyo
 3. What do we need that we don't have?
 4. What are the three fixes we'll make, who owns each, and by when?
 
-Within a week, send the completed [tabletop record](../templates/tabletop-record.md) to everyone and put the fixes on the next staff meeting agenda. Keep the record. It's proof for insurers and auditors that the plan is practiced.
+Within a week, send the completed [tabletop record](../templates/tabletop-record.md) to everyone and put the fixes on the next staff meeting agenda. Keep the record. It's evidence an insurer or auditor may ask for.
 
 ## Sources
 
