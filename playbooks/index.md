@@ -1,9 +1,9 @@
 ---
 title: Playbooks
-description: "What's different about the six incidents small businesses see most, to use alongside the runbook."
+description: "Guidance for six incident types, to use alongside the runbook and your own response plan."
 ---
 
-The [runbook](../runbook/index.md) covers every incident. Each playbook adds the first moves, the checks, and the notification questions specific to one kind. Open the runbook's [first hour](../runbook/first-hour.md) and the matching playbook side by side.
+The [runbook](../runbook/index.md) gives the general response structure. Each playbook adds the first moves, the checks, and the notification questions specific to one kind. Open the runbook's [first hour](../runbook/first-hour.md) and the matching playbook side by side.
 
 | What happened | Playbook | Practice it |
 |---|---|---|
