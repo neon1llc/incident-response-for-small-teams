@@ -1,15 +1,13 @@
 ---
 title: After-action report
-description: "One or two pages recording what happened in an incident, what worked, what didn't, and the fixes with owners and dates."
+description: "What happened in an incident, what worked, what didn't, and the fixes with owners and dates."
 ---
 
-**Incident ID:** ________ **Severity:** ____ **Review date:** ____________ **Facilitated by:** ______________________
-
-**Attended:** ______________________
+**Incident ID:** ________ **Severity:** ____ **Review date:** ____________ **Facilitated by:** ______________________ **Attended:** ______________________
 
 ## What happened
 
-Three to five sentences: how it started, how it was found, what was affected, and how it ended.
+Three to five sentences: start, discovery, what was affected, end.
 
 ## Timeline
 
@@ -23,16 +21,12 @@ Three to five sentences: how it started, how it was found, what was affected, an
 | Recovered | |
 | Closed | |
 
-**Time from first sign to first report:** ________ **From report to containment:** ________
-
 ## What went well
 
--
 -
 
 ## What didn't, and why
 
--
 -
 
 ## What we needed and didn't have
@@ -49,9 +43,7 @@ Three to five sentences: how it started, how it was found, what was affected, an
 
 ## Plan updates
 
-- [ ] Response plan changed: ______________________
-- [ ] Contact sheet changed: ______________________
-- [ ] Playbook added or changed: ______________________
+- [ ] Response plan, contact sheet, or playbook changed: ______________________
 - [ ] Training needed: ______________________
 
 ## Sources

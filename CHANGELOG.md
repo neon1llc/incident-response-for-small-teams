@@ -1,6 +1,12 @@
 # Changelog
 
-Incident Response for Small Teams releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
+Incident Response for Small Teams releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names. The release workflow adds missing tags and never moves one.
+
+## v0.1.5 - 2026-11-20
+
+### Changed
+- Tighter wording in the README, runbook, tabletop index, and playbook index. The README's offer to run a tabletop is removed.
+- About a quarter fewer words across the tabletop exercises, playbooks, runbook pages, notification rules, glossary, and templates. Removed: the tabletops' optional curveballs and optional fourth injects, the runbook's NIST mapping table and "mistakes that make incidents worse" list, the playbooks' "signs" lines and four of their prevention paragraphs, glossary entries that other pages already define, the notification reference's reporting-lines table, the contact sheet's first-three-moves box, the incident log's check-ins table, and the severity and rules tables that repeated the runbook and reference in the response plan and notification worksheet. Response steps, deadlines, and sources are unchanged.
 
 ## v0.1.4 - 2026-11-19
 

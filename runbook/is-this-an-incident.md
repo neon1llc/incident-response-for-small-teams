@@ -1,25 +1,19 @@
 ---
 title: Is this an incident?
-description: "The difference between an event, an incident, and a breach, why staff should report all three, and the four severity levels."
+description: "The difference between an event, an incident, and a breach, and the four severity levels."
 ---
-
-An office that reports no incidents usually isn't writing them down. Most have a few every year: a reused password in a breach list, a laptop left in a cab, an invoice paid to the wrong bank account. Calling them what they are gets them handled before they get expensive.
-
-## Three words, three meanings
 
 | Word | Means | Example |
 |---|---|---|
-| **Event** | Anything unusual someone noticed | A strange sign-in alert, a phishing email, a pop-up that won't close |
-| **Incident** | An event that threatens, or has harmed, your systems, data, or money | Someone signed in to a staff mailbox from abroad, files are encrypted, a payment went to a fraudster |
-| **Breach** | An incident where personal information was, or may have been, seen or taken by someone who shouldn't have it | Client tax returns in that mailbox were opened, a spreadsheet of Social Security numbers went to the wrong person |
+| **Event** | Anything unusual someone noticed | A strange sign-in alert, a phishing email |
+| **Incident** | An event that threatens, or has harmed, your systems, data, or money | A staff mailbox signed in from abroad, files encrypted, a payment sent to a fraudster |
+| **Breach** | An incident where personal information was, or may have been, seen or taken by someone who shouldn't have it | Client tax returns in that mailbox were opened |
 
-"Breach" is a legal word, and each notification law defines it a little differently. Don't use it in emails or chat until your lawyer has. Write "incident" instead. See [notify](notify.md).
+"Breach" is a legal word, and each notification law defines it differently. Don't use it in email or chat until your lawyer has. Write "incident." See [notify](notify.md).
 
 ## Report everything, sort later
 
-Staff shouldn't have to tell an event from an incident. The rule for everyone is: **if something seems off, tell the incident lead right away, and don't try to fix it yourself.** Make reporting easy (one name, one phone number, one address) and thank people who report, even when it turns out to be nothing.
-
-Questions the incident lead asks about any report:
+The rule for everyone: **if something seems off, tell the incident lead right away, and don't try to fix it yourself.** Thank people even when it's nothing. The lead asks four questions about any report:
 
 1. Is money moving, or about to?
 2. Could someone else be in our accounts or systems right now?
@@ -30,16 +24,16 @@ A yes to any of the first three makes it an incident until proven otherwise.
 
 ## Severity levels
 
-Severity sets how fast you move and who gets called. Pick the highest level that fits, and raise it as you learn more. Lowering it later is fine.
+Pick the highest level that fits, and raise it as you learn more.
 
 | Level | When | Response |
 |---|---|---|
 | **1 Critical** | Money is moving now, the business can't operate, or sensitive data about many people was likely taken | Everyone drops everything. Call the bank, insurer, and IT provider within the hour |
 | **2 High** | An important account or system is compromised, or sensitive data about some people was exposed | Same day. Insurer and lawyer within 24 hours |
-| **3 Medium** | Limited to one device or user, with no sign anything was taken | Within a business day. Log it and fix it |
-| **4 Low** | Routine and already handled: a phishing email reported and deleted, a lost phone wiped | Log it. Look for patterns monthly |
+| **3 Medium** | One device or user, with no sign anything was taken | Within a business day. Log it and fix it |
+| **4 Low** | Routine and already handled, such as a phishing email deleted | Log it. Look for patterns monthly |
 
-Level 4 entries matter. A log with only big incidents suggests the small ones aren't being reported, and auditors and insurers read it that way.
+Log level 4 too. A log with only big incidents suggests small ones go unreported.
 
 ## Sources
 

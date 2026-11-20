@@ -1,6 +1,6 @@
 ---
 title: Tabletop record
-description: "The record of a tabletop exercise: scenario, attendees, gaps found, and fixes, kept as proof the plan is practiced."
+description: "The record of a tabletop exercise: attendees, gaps found, and fixes."
 ---
 
 **Date:** ____________ **Scenario:** ______________________ **Facilitator:** ______________________ **Note-taker:** ______________________
@@ -13,15 +13,11 @@ description: "The record of a tabletop exercise: scenario, attendees, gaps found
 
 ## Objectives
 
-What this exercise set out to test:
-
-1.
-2.
-3.
+-
 
 ## Gaps found
 
-| Gap | Found at which inject | Severity: high, medium, or low |
+| Gap | Inject | Severity: high, medium, or low |
 |---|---|---|
 | | | |
 | | | |
@@ -37,8 +33,6 @@ What this exercise set out to test:
 | | | | |
 
 ## Hotwash notes
-
-What participants said at the end, in their words:
 
 -
 

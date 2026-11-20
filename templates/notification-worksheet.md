@@ -1,9 +1,9 @@
 ---
 title: Notification worksheet
-description: "Gather the facts a lawyer needs to decide who must be notified after an incident, and record each decision and its reason."
+description: "Gather the facts a lawyer needs to decide who must be notified, and record each decision and its reason."
 ---
 
-Fill this in with your lawyer once personal information may be involved. It isn't legal advice. It collects the facts every notification law turns on, and records why you decided what you did.
+Fill this in with your lawyer once personal information may be involved. It isn't legal advice. It collects the facts notification laws turn on and records why you decided what you did.
 
 **Incident ID:** ________ **Discovered:** ____________ **Lawyer:** ______________________
 
@@ -12,28 +12,15 @@ Fill this in with your lawyer once personal information may be involved. It isn'
 | Question | Answer |
 |---|---|
 | Kinds of personal information in reach (SSN, driver's license, account or card numbers, tax returns, health information, usernames and passwords, biometrics) | |
-| Acquired, accessed, or only exposed? Evidence for the answer | |
+| Acquired, accessed, or only exposed? Evidence | |
 | Encrypted? Was the key also exposed? | |
 | Number of people affected | |
 | States where they live, with a count for each | |
-| Whose data is it: ours, or held for a client? | |
+| Whose data: ours, or held for a client? | |
 
 ## Rules that may apply
 
-The deadlines below are examples from the rule named in each row, not a complete list. Requirements vary by jurisdiction, sector, and contract, so confirm each one, and add any others, with your lawyer.
-
-| Rule or contract | Applies? | Deadline | Notice to | Decided by and date |
-|---|---|---|---|---|
-| State laws (list each state) | | | | |
-| New York GBL § 899-aa | | 30 days from discovery | Residents, AG, DOS, State Police, DFS if regulated | |
-| FTC Safeguards Rule (500 or more consumers) | | 30 days from discovery | FTC | |
-| HIPAA | | Without unreasonable delay, and within 60 days of discovery | Individuals, HHS, media if more than 500 in a state | |
-| Regulation S-P | | 30 days after becoming aware | Individuals | |
-| 23 NYCRR 500.17 | | 72 hours | DFS | |
-| IRS (tax preparers) | | As soon as known | Stakeholder Liaison, state tax agencies | |
-| Card brands and processor | | Per merchant agreement | Processor | |
-| Client contracts and agreements | | | | |
-| Cyber insurance | | | Insurer | |
+Deadlines and recipients are in the [notification rules](../reference/notification-rules.md). Confirm each with your lawyer, and note below which apply: each state's law, New York GBL § 899-aa, the FTC Safeguards Rule, HIPAA, Regulation S-P, 23 NYCRR 500.17, IRS guidance, card brand and processor rules, client contracts, and your cyber insurance.
 
 ## Decisions
 
@@ -41,7 +28,7 @@ The deadlines below are examples from the rule named in each row, not a complete
 |---|---|---|---|---|
 | | | | | |
 
-A decision *not* to notify needs a written reason too. Some laws, including New York's for mistaken disclosures, require keeping it for years.
+A decision not to notify needs a written reason too. Some laws, including New York's for mistaken disclosures, require keeping it for years.
 
 ## Notices sent
 
