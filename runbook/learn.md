@@ -3,7 +3,7 @@ title: Learn
 description: "Run a blameless after-action review within two weeks, turn findings into owned fixes, and update the plan."
 ---
 
-The after-action review makes the next incident smaller. Hold it within two weeks of closing, for every level 1 or 2 incident and any level 3 that surprised you.
+Hold the after-action review within two weeks of closing, for every level 1 or 2 incident and any level 3 that surprised you.
 
 ## Run the review
 

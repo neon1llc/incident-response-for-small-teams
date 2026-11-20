@@ -3,7 +3,7 @@ title: Is this an incident?
 description: "The difference between an event, an incident, and a breach, why staff should report all three, and the four severity levels."
 ---
 
-An office that reports no incidents usually isn't writing them down. Most have a few every year: a reused password in a breach list, a laptop left in a cab, an invoice paid to the wrong bank account. Calling them what they are gets them handled before they get expensive.
+An office that reports no incidents usually isn't writing them down. Most have a few every year: a reused password in a breach list, a laptop left in a cab, an invoice paid to the wrong bank account. Name them early, before they get expensive.
 
 ## Three words, three meanings
 

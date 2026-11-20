@@ -3,7 +3,7 @@ title: Tabletop exercises
 description: "Six ready-to-run tabletop exercises for small businesses, each 60 to 90 minutes, built around the incidents they see most."
 ---
 
-A tabletop exercise is a "what would we do if...?" conversation around a table. Nobody touches a real system. The facilitator reveals a scenario in stages, and the team talks through what they'd know, do, and decide at each one. It's the cheapest way to learn that the insurer's number lives only in the mailbox you'd lose first.
+A tabletop exercise is a "what would we do if...?" conversation. Nobody touches a real system. The facilitator reveals a scenario in stages, and the team talks through what they'd know, do, and decide at each one. It's the cheapest way to learn that the insurer's number lives only in the mailbox you'd lose first.
 
 Start with the [facilitator guide](facilitator-guide.md).
 
@@ -20,17 +20,9 @@ Start with the [facilitator guide](facilitator-guide.md).
 
 Each one matches a [playbook](../playbooks/index.md), so the team can check its answers against it afterward. For more scenarios, CISA's Tabletop Exercise Packages and the UK NCSC's Exercise in a Box are free.
 
-## How each exercise is laid out
+Each exercise has a setup, three or four injects with questions, what good looks like, optional curveballs, and a debrief that ends in the [tabletop record](../templates/tabletop-record.md).
 
-- **Setup:** who should attend, the objectives, and what to prepare.
-- **Injects:** the scenario in three or four stages, each with the questions to ask.
-- **What good looks like:** answers to listen for, linked to the runbook.
-- **Curveballs:** optional twists for a team that's doing well.
-- **Debrief:** questions for the hotwash, then fill in the [tabletop record](../templates/tabletop-record.md).
-
-## How often
-
-Once a year at minimum, and after a big change to staff, systems, or vendors. Rotate scenarios, and rotate who plays incident lead so the backup gets practice.
+**How often:** once a year at minimum, and after a big change to staff, systems, or vendors. Rotate scenarios, and rotate who plays incident lead so the backup gets practice.
 
 ## Sources
 

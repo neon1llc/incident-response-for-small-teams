@@ -3,7 +3,7 @@ title: The first hour
 description: "What to do in the first 60 minutes after someone reports something wrong: declare, assign, stop the money, contain, call, and write it all down."
 ---
 
-Print this page. The first hour decides how much the rest costs.
+Print this page.
 
 ## Minute 0 to 10: take the report
 

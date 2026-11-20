@@ -3,7 +3,7 @@ title: Get ready
 description: "The work to do before an incident: a one-page plan, a contact sheet, the logs and backups you'll need, insurance, and a yearly drill."
 ---
 
-Most of what goes wrong in an incident was decided months earlier: nobody knew who could approve shutting the office down, the insurer's number was in the hacked mailbox, or the backups had never been restored. An afternoon of preparation fixes that.
+Most of what goes wrong in an incident was decided months earlier: nobody knew who could approve shutting the office down, the insurer's number was in the hacked mailbox, or the backups had never been restored. An afternoon of preparation fixes all three.
 
 ## The checklist
 

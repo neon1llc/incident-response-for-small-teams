@@ -3,7 +3,7 @@ title: The runbook
 description: "How a small business handles a security incident, from the first report to the lessons learned, in the order the work happens."
 ---
 
-Written for people who don't do security for a living, to follow under stress. Before you adopt it, confirm roles, systems, escalation, and legal requirements with the people responsible. Print the [first hour](first-hour.md) and keep a copy somewhere other than the computers it protects.
+Written for people who don't do security for a living, to follow under stress. Before you adopt it, confirm roles, systems, escalation, and legal requirements with the people responsible. Print the [first hour](first-hour.md) and keep a copy away from the computers it protects.
 
 ## The pages, in order
 
@@ -44,7 +44,7 @@ Outside help (your cyber insurer's breach coach, a lawyer, a forensics firm) adv
 
 ## How it maps to NIST
 
-NIST SP 800-61 Rev. 3 organizes incident response around the six functions of the NIST Cybersecurity Framework (CSF) 2.0. This runbook follows the same shape.
+NIST SP 800-61 Rev. 3 organizes incident response around the six functions of the NIST Cybersecurity Framework (CSF) 2.0. This runbook follows that shape.
 
 | CSF 2.0 function | Runbook page |
 |---|---|

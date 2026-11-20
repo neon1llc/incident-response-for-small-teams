@@ -3,7 +3,7 @@ title: Notify
 description: "Who to tell after an incident, in what order, by when, and how to say it: insurer, lawyer, law enforcement, the people affected, regulators, and clients."
 ---
 
-Small businesses often get hurt here after the incident itself: a deadline missed because nobody knew it applied, or a message to clients that promised more than the facts supported. Decide who to notify with your lawyer. Requirements vary by jurisdiction, sector, and contract. This page is the map, and [notification rules](../reference/notification-rules.md) gives example deadlines, each with the rule it comes from.
+Small businesses often get hurt here, after the incident itself: a deadline missed because nobody knew it applied, or a message to clients that promised more than the facts supported. Decide who to notify with your lawyer, because requirements vary by jurisdiction, sector, and contract. This page is the map. [Notification rules](../reference/notification-rules.md) gives example deadlines, each with its source.
 
 ## Who, in order
 
