@@ -20,7 +20,7 @@ Start with the [facilitator guide](facilitator-guide.md).
 
 Each one matches a [playbook](../playbooks/index.md), so the team can check its answers against it afterward. For more scenarios, CISA's Tabletop Exercise Packages and the UK NCSC's Exercise in a Box are free.
 
-Each exercise has a setup, three or four injects with questions, what good looks like, optional curveballs, and a debrief that ends in the [tabletop record](../templates/tabletop-record.md).
+Each exercise has a setup, three or four injects with questions, what good looks like, and a debrief that ends in the [tabletop record](../templates/tabletop-record.md).
 
 **How often:** once a year at minimum, and after a big change to staff, systems, or vendors. Rotate scenarios, and rotate who plays incident lead so the backup gets practice.
 

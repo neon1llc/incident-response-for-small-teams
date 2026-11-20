@@ -3,27 +3,27 @@ title: Notification rules
 description: "U.S. federal and New York rules that set who a small business must notify after a data incident, and by when, with links to the rule text."
 ---
 
-This is a starting map for a conversation with your lawyer, not legal advice. Notice requirements vary by jurisdiction, sector, and contract. This page covers only some U.S. federal rules and New York law, and other states and countries set their own. The deadlines below are examples, each from the rule named beside it. Rules change, and each defines "breach," "personal information," and "discovery" in its own way. Every rule below is linked to its official text. Check it before relying on a deadline here. If personal information may be involved, call your lawyer and your cyber insurer first. Many policies set their own notice deadline.
+This is a starting map for a talk with your lawyer, not legal advice. It covers only some U.S. federal rules and New York law. Other states and countries set their own. Rules change, and each defines "breach," "personal information," and "discovery" differently, so check the linked text before relying on a deadline. If personal information may be involved, call your lawyer and your cyber insurer first. Many policies set their own notice deadline.
 
 ## Every business: state breach laws
 
-All 50 states, the District of Columbia, and the U.S. territories have breach notification laws. Each covers its own residents, so a business with clients in three states may have three laws to follow. Most apply when unencrypted personal information, such as a name with a Social Security, driver's license, or financial account number, is acquired by someone without authorization. See the [NCSL list](https://www.ncsl.org/technology-and-communication/security-breach-notification-laws).
+All 50 states, the District of Columbia, and the U.S. territories have breach notification laws. Each covers its own residents, so clients in three states can mean three laws. Most apply when unencrypted personal information, such as a name with a Social Security, driver's license, or financial account number, is acquired without authorization. See the [NCSL list](https://www.ncsl.org/technology-and-communication/security-breach-notification-laws).
 
 **New York** ([General Business Law § 899-aa](https://www.nysenate.gov/legislation/laws/GBS/899-AA)):
 
-- Notify affected New York residents in the most expedient time possible, without unreasonable delay, and **within 30 days of discovery**, unless law enforcement asks for a delay.
-- If you only hold the data for its owner, notify the owner immediately, and within 30 days.
+- Notify affected New York residents without unreasonable delay and **within 30 days of discovery**, unless law enforcement asks for a delay.
+- If you only hold the data for its owner, notify the owner immediately and within 30 days.
 - When any New York residents are notified, also notify the **Attorney General, the Department of State, and the Division of State Police**, and the **Department of Financial Services** if you're a DFS-regulated business. Report through the Attorney General's [data breach reporting](https://ag.ny.gov/resources/organizations/data-breach-reporting) page.
 - If more than 5,000 New York residents are notified at one time, also notify the consumer reporting agencies.
-- New York's definition of private information includes medical information, not only Social Security, driver's license, and financial account numbers.
-- Separately, [§ 899-bb](https://www.nysenate.gov/legislation/laws/GBS/899-BB) requires reasonable safeguards for New York residents' private information, scaled to the size of a small business. It sets no notice deadline.
+- New York's definition of private information includes medical information.
+- [§ 899-bb](https://www.nysenate.gov/legislation/laws/GBS/899-BB) separately requires reasonable safeguards, scaled to a small business. It sets no notice deadline.
 
 ## By kind of business
 
 | If you are | Rule | Who to notify | Deadline |
 |---|---|---|---|
 | A **tax preparer, mortgage broker, or other non-bank financial business** under the FTC | [FTC Safeguards Rule, 16 CFR 314.4(j)](https://www.ecfr.gov/current/title-16/section-314.4) | The FTC, through the form on ftc.gov, when unencrypted customer information of **500 or more consumers** was acquired without authorization | As soon as possible, and **no later than 30 days** after discovery |
-| A **tax preparer** | IRS guidance in [Publication 4557](https://www.irs.gov/pub/irs-pdf/p4557.pdf) and [data theft information for tax professionals](https://www.irs.gov/individuals/data-theft-information-for-tax-professionals) | Your [IRS Stakeholder Liaison](https://www.irs.gov/businesses/small-businesses-self-employed/stakeholder-liaison-contacts), and the state tax agencies where you file, using the Federation of Tax Administrators' [Report a Data Breach](https://taxadmin.org/report-a-data-breach/) contacts | As soon as you know. Quick reports let the IRS block fraudulent returns filed in clients' names |
+| A **tax preparer** | IRS guidance in [Publication 4557](https://www.irs.gov/pub/irs-pdf/p4557.pdf) and [data theft information for tax professionals](https://www.irs.gov/individuals/data-theft-information-for-tax-professionals) | Your [IRS Stakeholder Liaison](https://www.irs.gov/businesses/small-businesses-self-employed/stakeholder-liaison-contacts), and the state tax agencies where you file, using the Federation of Tax Administrators' [Report a Data Breach](https://taxadmin.org/report-a-data-breach/) contacts | As soon as you know. Quick reports help the IRS block fraudulent returns in clients' names |
 | A **health practice or health plan** (HIPAA covered entity) | [HIPAA Breach Notification Rule, 45 CFR 164 Subpart D](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-D) | Affected individuals. HHS. Prominent media too, if more than 500 residents of one state are affected | Individuals **without unreasonable delay and within 60 days** of discovery. HHS at the same time for 500 or more, or within 60 days after the end of the year for fewer than 500 |
 | A **business associate** of a HIPAA covered entity | Same rule, 45 CFR 164.410 | The covered entity | **Without unreasonable delay and within 60 days** of discovery, or sooner if your agreement says so |
 | A **health app or device company** outside HIPAA | [FTC Health Breach Notification Rule, 16 CFR 318](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-318) | Affected individuals and the FTC. Media too, if 500 or more residents of one state | **Within 60 days** of discovery. The FTC at the same time for 500 or more |
@@ -34,7 +34,7 @@ All 50 states, the District of Columbia, and the U.S. territories have breach no
 
 ## Contracts
 
-Read your client contracts, business associate agreements, and vendor agreements. Many set their own notice window for an incident that touches the other party's data, and it can be shorter than any law's. The contract's own wording is what counts.
+Client contracts, business associate agreements, and vendor agreements often set their own notice window, sometimes shorter than any law's. The contract's wording counts.
 
 ## Law enforcement and reporting lines
 
@@ -43,7 +43,6 @@ Read your client contracts, business associate agreements, and vendor agreements
 | Wire fraud, business email compromise, ransomware, and other online crime | [ic3.gov](https://www.ic3.gov/), and your local FBI field office for large or fast-moving losses |
 | Any cyber incident, voluntarily | CISA at [cisa.gov/report](https://www.cisa.gov/report) |
 | Identity theft affecting people | [IdentityTheft.gov](https://www.identitytheft.gov/), which gives each person a recovery plan |
-| Tax-related identity theft | Your IRS Stakeholder Liaison (for preparers), and IRS guidance for the people affected |
 
 ## Sources
 

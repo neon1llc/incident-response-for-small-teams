@@ -3,7 +3,7 @@ title: Incident log
 description: "The running record of an incident: facts, decisions, and actions with times, from the first report to closing."
 ---
 
-The scribe keeps this from the first report. Write facts, not opinions or blame. Note the time on everything, in one time zone. Keep it outside any account that might be compromised.
+The scribe keeps this from the first report. Write facts, not opinions or blame. Time everything, in one time zone. Keep it outside any account that might be compromised.
 
 **Incident ID:** ________ **Severity:** 1 / 2 / 3 / 4, changed to ____ at ________ **Lead:** ______________________ **Scribe:** ______________________
 

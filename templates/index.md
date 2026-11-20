@@ -3,7 +3,7 @@ title: Templates
 description: "Fill-in forms for the plan, the contact sheet, the incident log, notification decisions, after-action reports, and tabletop records."
 ---
 
-Copy these into your own documents and fill the blanks. An empty field is an open question to settle before you need the answer. Print the plan and the contact sheet, because the computers that hold them may be down.
+Copy these into your own documents and fill the blanks. An empty field is an open question to settle before you need the answer. Print the plan and the contact sheet, since the computers holding them may be down.
 
 | Template | Use it | Filled in by |
 |---|---|---|
@@ -14,4 +14,4 @@ Copy these into your own documents and fill the blanks. An empty field is an ope
 | [After-action report](after-action-report.md) | Within two weeks of closing | The incident lead |
 | [Tabletop record](tabletop-record.md) | At the end of each exercise | The facilitator |
 
-Together these are the records insurers, auditors, and regulators ask for: a written plan, proof it's practiced, and a record of each incident from report to lessons learned. SOC 2 Readiness lists what a SOC 2 auditor asks for in its [incident evidence checklist](https://github.com/neon1llc/soc-2-readiness/blob/main/evidence/incidents.md).
+Together these are the records insurers, auditors, and regulators ask for: a written plan, proof it's practiced, and a record of each incident. SOC 2 Readiness lists what a SOC 2 auditor asks for in its [incident evidence checklist](https://github.com/neon1llc/soc-2-readiness/blob/main/evidence/incidents.md).

@@ -3,35 +3,35 @@ title: Investigate
 description: "Find out what happened, how the attacker got in, how long they were there, and whose information they could reach."
 ---
 
-Every later decision depends on the answers here. For a level 1 or 2 incident, the forensics firm (often assigned by your insurer, through your lawyer) leads. Your job is to preserve what they need and answer their questions quickly.
+Every later decision depends on these answers. For a level 1 or 2 incident, the forensics firm (often assigned by your insurer, through your lawyer) leads. Your job is to preserve what they need and answer quickly.
 
 ## The five questions
 
-1. **How did they get in?** A phished password, a reused password, an unpatched device, a remote access tool, a vendor's account?
+1. **How did they get in?** A phished or reused password, an unpatched device, a remote access tool, a vendor's account?
 2. **When?** The first sign of access, not the day someone noticed. The gap is often weeks.
 3. **What could they reach?** Every mailbox, folder, system, and account the compromised access could open.
 4. **What did they do?** Read, download, change, delete, encrypt, send, or pay.
 5. **Whose information was in reach?** Clients, staff, patients, and which kinds of data: Social Security numbers, tax returns, bank and card numbers, health records, passwords, ID documents.
 
-The answer to question 5 drives [notify](notify.md). "We don't know what they opened" usually means treating everything in reach as exposed.
+Question 5 drives [notify](notify.md). "We don't know what they opened" usually means treating everything in reach as exposed.
 
 ## What to collect
 
 | Source | What it shows | Where |
 |---|---|---|
-| Sign-in logs | Where and when accounts were used, and from which devices | Microsoft 365 or Google Workspace admin center, other cloud apps |
+| Sign-in logs | Where and when accounts were used, from which devices | Microsoft 365 or Google Workspace admin center, other cloud apps |
 | Audit logs | Mail read, files opened or downloaded, rules and settings changed | Microsoft Purview audit, Google Workspace audit and investigation |
-| Mailbox | Forwarding and inbox rules, sent and deleted items, messages sent from the account | The mailbox itself and the admin center |
+| Mailbox | Forwarding and inbox rules, sent and deleted items | The mailbox and the admin center |
 | Devices | Malware, remote access tools, browser sessions | The affected computers, kept as they are |
 | Firewall and VPN logs | Connections in and out, large uploads | Your router, firewall, or IT provider |
 | Bank and payment records | Transfers, payee changes, card activity | Online banking and the payment processor |
 | People | What they clicked, opened, approved, or were asked to do | Short interviews, written down the same day |
 
-Export logs to files and store them outside the affected accounts. Note who exported them and when. That record is your chain of custody if the incident reaches a regulator or a court.
+Export logs to files stored outside the affected accounts. Note who exported them and when. That record is your chain of custody if the incident reaches a regulator or court.
 
 ## Working with lawyers and forensics
 
-When a lawyer hires the forensics firm, its findings may be protected as legal advice. That protection is the lawyer's call, so route forensics requests and reports through them. Keep your own log factual: what was seen and done, not guesses about blame.
+When a lawyer hires the forensics firm, its findings may be protected as legal advice. That's the lawyer's call, so route forensics requests and reports through them. Keep your own log factual: what was seen and done, not guesses about blame.
 
 ## When you're done
 

@@ -3,24 +3,24 @@ title: Get ready
 description: "The work to do before an incident: a one-page plan, a contact sheet, the logs and backups you'll need, insurance, and a yearly drill."
 ---
 
-Most of what goes wrong in an incident was decided months earlier: nobody knew who could approve shutting the office down, the insurer's number was in the hacked mailbox, or the backups had never been restored. An afternoon of preparation fixes all three.
+Most of what goes wrong was decided months earlier: nobody knew who could approve shutting the office down, the insurer's number was in the hacked mailbox, or the backups had never been restored. An afternoon of preparation fixes all three.
 
 ## The checklist
 
-- [ ] **Write the plan.** Fill in the one-page [response plan](../templates/response-plan.md): roles and a backup for each, severity levels, who may approve what, and when a decision moves up to the owner. Have the owner sign it.
-- [ ] **Fill in the contact sheet.** The [contact sheet](../templates/contact-sheet.md) lists your IT provider's after-hours number, insurer claim line and policy number, lawyer, bank fraud line, and key vendors. Print it. Keep one copy in the office and one at the lead's home.
-- [ ] **Agree on a backup channel.** Decide how you'll talk if email and chat are compromised: a group text, a phone tree, or a call bridge.
+- [ ] **Write the plan.** Fill in the one-page [response plan](../templates/response-plan.md): roles with a backup each, severity levels, who may approve what, and when a decision moves up to the owner. Have the owner sign it.
+- [ ] **Fill in the contact sheet.** The [contact sheet](../templates/contact-sheet.md) holds your IT provider's after-hours number, insurer claim line and policy number, lawyer, bank fraud line, and key vendors. Print it. Keep one copy in the office and one at the lead's home.
+- [ ] **Agree on a backup channel** for when email and chat are compromised: a group text, phone tree, or call bridge.
 - [ ] **Know what you have.** List your systems (email, file storage, accounting, line-of-business software, website), who administers each, and where personal information lives. You can't decide who to notify without it.
-- [ ] **Turn on the logs.** Turn on sign-in and audit logs for email and cloud accounts, and keep them at least 90 days, longer where your plan allows. Many small-business plans keep very little by default.
-- [ ] **Test a restore.** Back up what you can't lose, with one copy offline or immutable, and restore a real file from it every quarter.
-- [ ] **Read your insurance policy.** Find out whether you have cyber coverage, how fast you must report, and whether you have to use the insurer's lawyers and forensics firms. Using your own can cost you coverage.
-- [ ] **Line up help.** Know which forensics firm you'd call (often the insurer's), and get your IT provider's incident terms in writing: hours, rates, and what they will and won't do.
-- [ ] **Tell staff how to report.** One name, one number, and the rule "tell us, don't fix it." Repeat it at onboarding and once a year.
-- [ ] **Practice.** Run a [tabletop exercise](../tabletops/index.md) at least once a year, and after any big change to staff or systems. Fix what it finds.
+- [ ] **Turn on the logs.** Enable sign-in and audit logs for email and cloud accounts and keep them at least 90 days. Many small-business plans keep very little by default.
+- [ ] **Test a restore.** Back up what you can't lose, with one copy offline or immutable, and restore a real file every quarter.
+- [ ] **Read your insurance policy.** Find out whether you have cyber coverage, how fast you must report, and whether you must use the insurer's lawyers and forensics firms. Using your own can cost you coverage.
+- [ ] **Line up help.** Know which forensics firm you'd call (often the insurer's), and get your IT provider's incident terms in writing: hours, rates, and limits.
+- [ ] **Tell staff how to report.** One name, one number, and the rule "tell us, don't fix it." Repeat it at onboarding and yearly.
+- [ ] **Practice.** Run a [tabletop exercise](../tabletops/index.md) yearly and after any big change. Fix what it finds.
 
 ## What regulators expect
 
-Several rules require a written incident response plan. The FTC Safeguards Rule, which covers tax preparers, mortgage brokers, some car dealers, and other non-bank financial businesses, requires one, unless you hold information on fewer than 5,000 consumers. So does the HIPAA Security Rule for health practices and their business associates. Insurers ask about it on renewal forms, and SOC 2 auditors test it. The [response plan](../templates/response-plan.md) template covers the elements they look for. See [notification rules](../reference/notification-rules.md) for which rules may apply to you.
+The FTC Safeguards Rule requires a written incident response plan for tax preparers, mortgage brokers, some car dealers, and other non-bank financial businesses, unless you hold information on fewer than 5,000 consumers. The HIPAA Security Rule requires one for health practices and their business associates. Insurers ask about it on renewal forms, and SOC 2 auditors test it. The [response plan](../templates/response-plan.md) covers what they look for. See [notification rules](../reference/notification-rules.md) for what may apply to you.
 
 ## Sources
 

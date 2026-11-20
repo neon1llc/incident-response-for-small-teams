@@ -3,7 +3,7 @@ title: Notification worksheet
 description: "Gather the facts a lawyer needs to decide who must be notified after an incident, and record each decision and its reason."
 ---
 
-Fill this in with your lawyer once personal information may be involved. It isn't legal advice. It collects the facts every notification law turns on, and records why you decided what you did.
+Fill this in with your lawyer once personal information may be involved. It isn't legal advice. It collects the facts notification laws turn on and records why you decided what you did.
 
 **Incident ID:** ________ **Discovered:** ____________ **Lawyer:** ______________________
 
@@ -20,7 +20,7 @@ Fill this in with your lawyer once personal information may be involved. It isn'
 
 ## Rules that may apply
 
-The deadlines below are examples from the rule named in each row, not a complete list. Requirements vary by jurisdiction, sector, and contract, so confirm each one, and add any others, with your lawyer.
+These deadlines are examples, not a complete list. Confirm each, and add others, with your lawyer.
 
 | Rule or contract | Applies? | Deadline | Notice to | Decided by and date |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ The deadlines below are examples from the rule named in each row, not a complete
 |---|---|---|---|---|
 | | | | | |
 
-A decision *not* to notify needs a written reason too. Some laws, including New York's for mistaken disclosures, require keeping it for years.
+A decision not to notify needs a written reason too. Some laws, including New York's for mistaken disclosures, require keeping it for years.
 
 ## Notices sent
 

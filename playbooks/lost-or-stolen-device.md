@@ -7,26 +7,26 @@ description: "A laptop, phone, or tablet with work email or client data is missi
 
 ## First moves
 
-1. **Get the facts from the person**: which device, when and where they last had it, whether it was locked, and what it could open (email, file sync, saved passwords, client portals).
-2. **Locate, lock, or wipe** it with your device management tool or the owner's Apple, Google, or Microsoft account. Locate and lock first if there's a real chance of getting it back, and wipe if not.
-3. **Cut its access.** Sign the device out of email and cloud apps from the admin center, revoke its sessions and app passwords, and change any passwords saved on it.
+1. **Get the facts:** which device, when and where it was last seen, whether it was locked, and what it could open (email, file sync, saved passwords, client portals).
+2. **Locate, lock, or wipe it** with your device management tool or the owner's Apple, Google, or Microsoft account. Locate and lock if there's a real chance of getting it back. Otherwise wipe.
+3. **Cut its access.** Sign it out of email and cloud apps from the admin center, revoke sessions and app passwords, and change passwords saved on it.
 4. **Report theft to the police** and keep the report number. Insurers usually ask for it.
 
 ## The question that decides everything
 
-**Was the device encrypted, with a strong passcode, and locked when it was lost?** Full-disk encryption (FileVault, BitLocker, or a modern phone with a passcode) usually means the data is unreadable. Most notification laws, including New York's and the FTC Safeguards Rule, apply to *unencrypted* information, and the HIPAA rule doesn't count properly encrypted health data as unsecured.
+**Was the device encrypted, with a strong passcode, and locked when it was lost?** Full-disk encryption (FileVault, BitLocker, or a modern phone with a passcode) usually means the data is unreadable. Most notification laws, including New York's and the FTC Safeguards Rule, apply to *unencrypted* information. HIPAA doesn't count properly encrypted health data as unsecured.
 
-Prove it rather than assume it. Your device management tool or IT provider can usually show that encryption was on, and when the device last checked in. Save that record in the [incident log](../templates/incident-log.md).
+Prove it rather than assume it. Your device management tool or IT provider can usually show that encryption was on and when the device last checked in. Save that record in the [incident log](../templates/incident-log.md).
 
 ## Notification questions
 
-- **Encrypted, locked, and the key wasn't with it** (no passcode on a sticky note): usually not a breach. Record why, and keep the evidence.
+- **Encrypted, locked, and the key wasn't with it:** usually not a breach. Record why and keep the evidence.
 - **Not encrypted, or you can't show it was:** list what was stored or synced on it, and work through [notify](../runbook/notify.md).
-- **Paper files lost with it?** Paper counts under HIPAA and some state laws, though not under New York's law for computerized data.
+- **Paper files lost with it?** Paper counts under HIPAA and some state laws, though not New York's law for computerized data.
 
 ## Prevent the next one
 
-Encryption and a passcode on every device that touches work data, enforced by a device management tool. Keep client data in cloud storage rather than on the device. Turn on remote lock and wipe before you need it.
+Encrypt every device that touches work data and require a passcode, enforced by a device management tool. Keep client data in cloud storage, not on devices. Turn on remote lock and wipe before you need them.
 
 ## Sources
 

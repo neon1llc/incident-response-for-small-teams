@@ -6,6 +6,7 @@ Incident Response for Small Teams releases use `v0.MINOR.PATCH` until the first 
 
 ### Changed
 - Tighter wording in the README, runbook, tabletop index, and playbook index. The README's offer to run a tabletop is removed.
+- Shorter tabletop exercises, playbooks, runbook pages, notification rules, and templates. The optional curveballs are removed from the tabletops, and the runbook's NIST mapping table is removed. Steps, deadlines, and sources are unchanged.
 
 ## v0.1.4 - 2026-11-19
 

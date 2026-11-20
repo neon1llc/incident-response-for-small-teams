@@ -9,7 +9,7 @@ description: "One or two pages recording what happened in an incident, what work
 
 ## What happened
 
-Three to five sentences: how it started, how it was found, what was affected, and how it ended.
+Three to five sentences: start, discovery, what was affected, end.
 
 ## Timeline
 
@@ -28,11 +28,9 @@ Three to five sentences: how it started, how it was found, what was affected, an
 ## What went well
 
 -
--
 
 ## What didn't, and why
 
--
 -
 
 ## What we needed and didn't have

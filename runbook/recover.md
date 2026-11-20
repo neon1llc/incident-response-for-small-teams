@@ -9,19 +9,19 @@ Start recovery once containment is done and the tech lead can explain how the at
 
 - **Remove every foothold** the investigation found: malware, remote access tools, extra admin accounts, app registrations, forwarding rules, and scheduled tasks.
 - **Fix the way in.** Patch the device, turn on MFA, close the exposed port, or end the vendor's access.
-- **Reset credentials** that were in reach: the accounts involved, admin accounts, shared passwords, service accounts, API keys, and Wi-Fi passwords if the network was involved.
+- **Reset credentials in reach:** involved accounts, admin accounts, shared passwords, service accounts, API keys, and Wi-Fi passwords if the network was involved.
 
 ## Rebuild and restore
 
-1. **Rebuild infected computers** from a clean install rather than cleaning them in place, unless the forensics firm says otherwise.
-2. **Check backups before using them.** Restore to an isolated machine first and scan the result. Pick a backup from before the first sign of access, using the date from [investigate](investigate.md).
-3. **Bring systems back in priority order.** List what the business needs first (email, phones, the line-of-business system, payments) and restore those, then the rest.
-4. **Confirm each system works** with the person who uses it every day before calling it done.
+1. **Rebuild infected computers** from a clean install, not in place, unless the forensics firm says otherwise.
+2. **Check backups before using them.** Restore to an isolated machine and scan the result. Pick a backup from before the first sign of access, using the date from [investigate](investigate.md).
+3. **Restore in priority order.** List what the business needs first (email, phones, the line-of-business system, payments), then the rest.
+4. **Confirm each system works** with the person who uses it daily before calling it done.
 
 ## Watch for a return
 
-- Watch sign-in logs and alerts closely for at least 30 days. Attackers often come back through a door nobody closed.
-- Tell staff to expect follow-up phishing that uses details from the incident.
+- Watch sign-in logs and alerts closely for at least 30 days. Attackers often return through a door nobody closed.
+- Warn staff to expect follow-up phishing that uses details from the incident.
 - If client data was exposed, expect calls and phishing aimed at clients. Give them a way to check that a message came from you.
 
 ## Close the incident

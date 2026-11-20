@@ -37,11 +37,11 @@ description: "How to prepare, run, and close a tabletop exercise for a small tea
 | 0:10 | Inject 1, and discussion |
 | 0:25 | Inject 2, and discussion |
 | 0:45 | Inject 3, and discussion |
-| 1:05 | Inject 4 or a curveball, if time allows |
+| 1:05 | Inject 4, if time allows |
 | 1:15 | Hotwash |
 | 1:30 | Close: the three fixes, their owners, and dates |
 
-For 60 minutes, use three injects and skip curveballs.
+For 60 minutes, use three injects.
 
 ## Facilitating well
 

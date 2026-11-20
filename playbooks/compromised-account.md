@@ -3,32 +3,32 @@ title: Compromised account
 description: "Someone else is signed in to a staff or admin account in Microsoft 365, Google Workspace, or another cloud app: lock them out, find what they did, and check what they could read."
 ---
 
-**Signs:** a mailbox suddenly blocked from sending, sign-in alerts from unfamiliar places, MFA prompts nobody asked for, contacts getting odd emails from a staff address, missing or auto-deleted messages, or a new forwarding rule.
+**Signs:** a mailbox blocked from sending, sign-in alerts from unfamiliar places, MFA prompts nobody asked for, odd emails from a staff address, missing messages, or a new forwarding rule.
 
 ## First moves
 
 From a clean device, with an admin account:
 
-1. **Screenshot first:** the account's inbox rules, forwarding settings, recent sign-ins, registered MFA methods, and connected apps.
-2. **Disable the account** for a few hours if the work can wait. If not, **reset the password**, and give the new one by phone or in person, never by email. Then **sign out all sessions**, which also invalidates stolen sign-in tokens.
-3. **Reset MFA.** Remove every registered method and have the person register again, in person or on a verified call. Attackers often add their own phone or app.
-4. **Remove what the attacker added:** forwarding to outside addresses, inbox rules that move or delete mail (some are hidden from Outlook, so have your IT provider list them with admin tools), delegates, and app passwords, which a password reset doesn't revoke.
-5. **Disable unknown connected apps, then revoke their consent.** An app that's only deleted can come back the next time someone approves it.
-6. **If it's an admin account**, check for new admin accounts, changed security settings, new app registrations, and mail flow rules that affect everyone.
+1. **Screenshot first:** inbox rules, forwarding settings, recent sign-ins, registered MFA methods, and connected apps.
+2. **Disable the account** for a few hours if work can wait. If not, **reset the password** and give the new one by phone or in person, never email. Then **sign out all sessions**, which also kills stolen sign-in tokens.
+3. **Reset MFA.** Remove every method and have the person re-register in person or on a verified call. Attackers often add their own phone or app.
+4. **Remove what the attacker added:** forwarding to outside addresses, rules that move or delete mail (some are hidden from Outlook, so have IT list them with admin tools), delegates, and app passwords, which a password reset doesn't revoke.
+5. **Disable unknown connected apps, then revoke their consent.** An app that's only deleted can return when someone approves it again.
+6. **For an admin account,** check for new admins, changed security settings, new app registrations, and mail flow rules that affect everyone.
 
 ## Checks
 
-- **How did they get in?** A phishing page that captured the password and MFA code, a password reused from another breach, an MFA prompt someone approved to make it stop, or a malicious app consent.
-- **What did they do?** Sent mail, searched for words like "invoice," "wire," or "W-2," downloaded files, or shared folders. The audit log shows mail and file access if logging was on.
-- **Did it spread?** Other accounts signing in from the same addresses, or phishing sent from this account to colleagues and clients.
+- **How did they get in?** A phishing page that caught the password and MFA code, a reused password, an MFA prompt approved to make it stop, or a malicious app consent.
+- **What did they do?** Sent mail, searched for "invoice," "wire," or "W-2," downloaded files, or shared folders. The audit log shows this if logging was on.
+- **Did it spread?** Other accounts signing in from the same addresses, or phishing sent to colleagues and clients.
 
 ## Notification questions
 
-Years of client email often hold tax documents, IDs, account numbers, and health information. If the audit log shows what was opened, scope notice to that. If it doesn't, treat everything the account could reach as exposed, and work through [notify](../runbook/notify.md).
+Years of client email often hold tax documents, IDs, account numbers, and health information. If the audit log shows what was opened, scope notice to that. If not, treat everything the account could reach as exposed, and work through [notify](../runbook/notify.md).
 
 ## Prevent the next one
 
-Phishing-resistant MFA (passkeys or security keys) for admins first, then everyone. Block legacy sign-in methods. Alert on new forwarding rules and sign-ins from new countries. Keep at least 90 days of audit logs.
+Use phishing-resistant MFA (passkeys or security keys), admins first. Block legacy sign-in methods. Alert on new forwarding rules and sign-ins from new countries. Keep at least 90 days of audit logs.
 
 ## Sources
 

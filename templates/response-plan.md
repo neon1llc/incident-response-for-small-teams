@@ -11,7 +11,7 @@ When something goes wrong, we will protect people and money first, keep the busi
 
 ## 2. Scope
 
-This plan covers every event that threatens our systems, data, or money, including incidents at vendors that hold our data. Systems and data covered are listed in: ______________________
+This plan covers every event that threatens our systems, data, or money, including incidents at vendors that hold our data. Systems and data covered: ______________________
 
 ## 3. Roles and authority
 
@@ -26,7 +26,7 @@ Only the incident lead, with the lawyer, decides whether to notify anyone outsid
 
 ## 4. Reporting
 
-Anyone who notices something unusual tells **______________________** at **______________________** right away, and doesn't try to fix it. Reports are welcome, and nobody is blamed for reporting.
+Anyone who notices something unusual tells **______________________** at **______________________** right away and doesn't try to fix it. Nobody is blamed for reporting.
 
 ## 5. Severity levels
 
@@ -39,7 +39,7 @@ Anyone who notices something unusual tells **______________________** at **_____
 
 ## 6. How we respond
 
-We follow the steps in Incident Response for Small Teams: the first hour, contain, investigate, notify, recover, and learn. Our playbooks for specific incidents are kept at: ______________________
+We follow Incident Response for Small Teams: first hour, contain, investigate, notify, recover, learn. Playbooks are kept at: ______________________
 
 ## 7. Communication
 
@@ -58,15 +58,15 @@ Rules and contracts that may require notice after an incident (see the notificat
 
 ## 9. Records
 
-The scribe keeps an incident log for every incident, including level 4. We keep logs, notification decisions, notices sent, and after-action reports for ______ years.
+The scribe logs every incident, including level 4. We keep logs, notification decisions, notices, and after-action reports for ______ years.
 
 ## 10. Fixing weaknesses
 
-Every level 1 or 2 incident gets an after-action review within two weeks. Each fix it finds gets an owner and a date, tracked at: ______________________
+Every level 1 or 2 incident gets an after-action review within two weeks. Each fix gets an owner and a date, tracked at: ______________________
 
 ## 11. Testing and review
 
-We run a tabletop exercise at least once a year, and review this plan after every level 1 or 2 incident, every exercise, and any big change to staff or systems.
+We run a tabletop exercise at least yearly. We review this plan after every level 1 or 2 incident, every exercise, and any big change to staff or systems.
 
 **Signed:** ______________________ **Date:** ____________
 

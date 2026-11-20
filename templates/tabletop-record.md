@@ -15,9 +15,7 @@ description: "The record of a tabletop exercise: scenario, attendees, gaps found
 
 What this exercise set out to test:
 
-1.
-2.
-3.
+-
 
 ## Gaps found
 
@@ -38,7 +36,7 @@ What this exercise set out to test:
 
 ## Hotwash notes
 
-What participants said at the end, in their words:
+What participants said at the end:
 
 -
 

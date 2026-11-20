@@ -60,11 +60,6 @@ Two of your clients call. Each got an email from your bookkeeper's address with 
 - Clients are warned by phone or another channel, not from the compromised mailbox.
 - The team names the missing control: a callback to a known number before any change to payment details.
 
-## Curveballs
-
-- The owner is on a flight and unreachable until evening. Who can approve calling the insurer?
-- The bank says it needs a police report before it'll act.
-
 ## Debrief
 
 1. Where did we lose time, or where would we have?

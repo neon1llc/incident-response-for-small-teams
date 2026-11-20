@@ -7,15 +7,15 @@ Hold the after-action review within two weeks of closing, for every level 1 or 2
 
 ## Run the review
 
-**Who:** everyone who had a role, plus the person who first reported it. **Time:** 45 to 60 minutes. **Rule:** blameless. The question is what made the mistake easy, not who made it. People stop reporting when reporting gets them blamed.
+**Who:** everyone with a role, plus the person who first reported it. **Time:** 45 to 60 minutes. **Rule:** blameless. Ask what made the mistake easy, not who made it. People stop reporting when reporting gets them blamed.
 
 Walk the [incident log](../templates/incident-log.md) in order, then ask:
 
 1. What happened, and when did we first know? How long was the gap?
-2. What went well that we should keep doing?
+2. What went well?
 3. Where did we lose time, and why?
-4. What did we need that we didn't have: a number, a password, a log, a decision?
-5. What made it possible, and what would have caught it sooner? Look for several contributing factors, such as a missing control, an unclear owner, and a confusing tool, rather than one root cause.
+4. What did we need and not have: a number, a password, a log, a decision?
+5. What made it possible, and what would have caught it sooner? Expect several factors, such as a missing control, an unclear owner, and a confusing tool, not one root cause.
 6. What will we change, who owns each change, and by when?
 
 ## Turn findings into fixes
@@ -26,7 +26,7 @@ Walk the [incident log](../templates/incident-log.md) in order, then ask:
 
 ## Keep the record
 
-File the [after-action report](../templates/after-action-report.md) with the incident log, the notification worksheet, and copies of every notice sent. Insurers, auditors, and regulators may ask for them, and the FTC Safeguards Rule requires covered businesses that hold information on 5,000 or more consumers to evaluate and revise their incident response plan after a security event.
+File the [after-action report](../templates/after-action-report.md) with the incident log, notification worksheet, and copies of every notice sent. Insurers, auditors, and regulators may ask for them. The FTC Safeguards Rule also requires covered businesses holding information on 5,000 or more consumers to evaluate and revise their incident response plan after a security event.
 
 ## Sources
 
