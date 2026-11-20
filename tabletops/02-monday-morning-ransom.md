@@ -1,49 +1,33 @@
 ---
 title: Monday morning ransom
-description: "A tabletop exercise on ransomware: locked files across the office, a ransom note, untested backups, and a threat to publish client data."
+description: "A tabletop exercise on ransomware: locked files, a ransom note, untested backups, and a threat to publish client data."
 ---
 
-**Time:** 90 minutes. **Playbook:** [ransomware](../playbooks/ransomware.md).
-
-## Setup
-
-**Attend:** the owner, IT or the MSP, the office manager, and whoever talks to clients.
-
-**Practice:** isolating systems without destroying evidence, judging whether backups would work and how fast, and deciding about payment.
-
-**Prepare:** list your real file server or shared drive, backup method, and line-of-business software.
+**Time:** 90 minutes. **Playbook:** [ransomware](../playbooks/ransomware.md). **Attend:** the owner, IT or the MSP, the office manager, and whoever talks to clients. **Prepare:** list your real file server, backup method, and line-of-business software.
 
 ## Inject 1: Monday, 8:15am
 
 Three staff can't open files on the shared drive. The names end in `.lockd`. One computer shows a desktop file called `READ_ME_NOW.txt`.
 
-**Ask:**
-- Who gets the first call? Who declares the incident?
-- What does each person do with their computer? Do you disconnect the whole office?
+**Ask:** Who declares the incident? What does each person do with their computer?
 
 ## Inject 2: Monday, 9:00am
 
-The note says your files are encrypted and 120 GB was copied out. It demands $85,000 in cryptocurrency within 72 hours or the data goes on a leak site, and links to a chat for "support."
+The note says your files are encrypted and 120 GB was copied out. It demands $85,000 in cryptocurrency within 72 hours or the data goes on a leak site.
 
-**Ask:**
-- Who calls the insurer? Does anyone know the policy number without a computer?
-- Does anyone contact the attackers? Who decides?
+**Ask:** Who calls the insurer, and does anyone know the policy number without a computer? Does anyone contact the attackers?
 
 ## Inject 3: Monday, 11:00am
 
-IT reports that the nightly backup drive was plugged in and is also encrypted. A cloud backup exists, but nobody has restored from it in over a year. The attackers came in through a remote access tool with a password reused from a breached site.
+IT reports that the nightly backup drive was plugged in and is also encrypted. A cloud backup exists, but nobody has restored from it in over a year. The attackers came in through a remote access tool with a reused password.
 
-**Ask:**
-- How long can you run without these files? What comes back first?
-- Who checks the cloud backup is complete and clean?
+**Ask:** How long can you run without these files, and what comes back first?
 
 ## Inject 4: Wednesday
 
 The forensics firm confirms that a folder of client tax returns and IDs was copied. The leak site posts five client documents.
 
-**Ask:**
-- Who must be notified, by when? Use the [notification worksheet](../templates/notification-worksheet.md).
-- Does publication change the payment discussion?
+**Ask:** Who must be notified, by when? Use the [notification worksheet](../templates/notification-worksheet.md).
 
 ## What good looks like
 
@@ -52,12 +36,7 @@ The forensics firm confirms that a folder of client tax returns and IDs was copi
 - The team treats it as a data breach from inject 2 and confirms it in inject 4. See [notify](../runbook/notify.md).
 - Payment is the owner's decision with the insurer and lawyer, including sanctions risk.
 
-## Debrief
-
-1. How long would we be down? When did we last restore from backup?
-2. Which accounts have remote access, and do all have MFA?
-
-Record it on the [tabletop record](../templates/tabletop-record.md).
+**Debrief:** How long would we be down? When did we last restore from backup?
 
 ## Sources
 

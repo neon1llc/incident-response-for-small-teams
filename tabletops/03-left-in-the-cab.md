@@ -1,54 +1,35 @@
 ---
 title: Left in the cab
-description: "A tabletop exercise on a lost laptop: client files, a question about encryption nobody can answer, and a decision about notifying."
+description: "A tabletop exercise on a lost laptop: client files, no proof of encryption, and a decision about notifying."
 ---
 
-**Time:** 60 minutes. **Playbook:** [lost or stolen device](../playbooks/lost-or-stolen-device.md).
-
-## Setup
-
-**Attend:** the owner, IT or the MSP, and one or two staff who carry work laptops or phones.
-
-**Practice:** showing, not guessing, that devices are encrypted, cutting a device's access, and deciding when a loss becomes a breach.
-
-**Prepare:** know which device management tool, if any, you use.
+**Time:** 60 minutes. **Playbook:** [lost or stolen device](../playbooks/lost-or-stolen-device.md). **Attend:** the owner, IT or the MSP, and one or two staff who carry work laptops or phones. **Prepare:** know which device management tool, if any, you use.
 
 ## Inject 1: Thursday, 7:40pm
 
-A senior staff member texts the owner. She left her work laptop in a rideshare on the way home from a client meeting, and the driver isn't answering. It has Outlook, a synced copy of the client files folder, and a browser with saved passwords.
+A senior staff member texts the owner. She left her work laptop in a rideshare, and the driver isn't answering. It has Outlook, a synced copy of the client files folder, and a browser with saved passwords.
 
-**Ask:**
-- What happens tonight, and who does it?
-- Can anyone lock or wipe the laptop remotely? Which passwords change?
+**Ask:** What happens tonight, and who does it? Can anyone lock or wipe the laptop?
 
 ## Inject 2: Friday, 9:00am
 
-The rideshare company has no record of it. IT finds the laptop isn't enrolled in device management. Nobody knows whether BitLocker was on. The staff member says it "had a password."
+IT finds the laptop isn't enrolled in device management. Nobody knows whether BitLocker was on. The staff member says it "had a password."
 
-**Ask:**
-- Does "it had a password" mean the data is protected?
-- How do you find out whether encryption was on, now the device is gone?
+**Ask:** Does "it had a password" mean the data is protected? How do you find out whether encryption was on?
 
 ## Inject 3: Friday, 2:00pm
 
 The synced folder held about 340 client files, including tax returns for clients in New York, New Jersey, and Connecticut. Nothing shows the disk was encrypted.
 
-**Ask:**
-- Is this a breach, and under which laws? Use the [notification worksheet](../templates/notification-worksheet.md).
-- Who calls the lawyer and the insurer? When did the notification clock start?
+**Ask:** Is this a breach, and under which laws? Use the [notification worksheet](../templates/notification-worksheet.md). When did the clock start?
 
 ## What good looks like
 
 - Sessions are revoked and passwords changed Thursday night, not Friday. See [contain](../runbook/contain.md).
-- The team sees that a sign-in password isn't encryption, and that without proof the data counts as unencrypted.
+- The team sees that a sign-in password isn't encryption, and that without evidence the data counts as unencrypted.
 - The discovery date is Thursday evening, and three states' laws may apply. See [notification rules](../reference/notification-rules.md).
 
-## Debrief
-
-1. How many of our devices could we prove are encrypted today?
-2. Should client files sync to laptops at all? Who can wipe a device after hours?
-
-Record it on the [tabletop record](../templates/tabletop-record.md).
+**Debrief:** How many of our devices could we show are encrypted today?
 
 ## Sources
 

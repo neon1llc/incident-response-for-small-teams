@@ -1,32 +1,26 @@
 ---
 title: Compromised account
-description: "Someone else is signed in to a staff or admin account in Microsoft 365, Google Workspace, or another cloud app: lock them out, find what they did, and check what they could read."
+description: "Someone else is signed in to a staff or admin cloud account: lock them out and check what they read."
 ---
-
-**Signs:** a mailbox blocked from sending, sign-in alerts from unfamiliar places, MFA prompts nobody asked for, odd emails from a staff address, missing messages, or a new forwarding rule.
 
 ## First moves
 
 From a clean device, with an admin account:
 
 1. **Screenshot first:** inbox rules, forwarding settings, recent sign-ins, registered MFA methods, and connected apps.
-2. **Disable the account** for a few hours if work can wait. If not, **reset the password** and give the new one by phone or in person, never email. Then **sign out all sessions**, which also kills stolen sign-in tokens.
-3. **Reset MFA.** Remove every method and have the person re-register in person or on a verified call. Attackers often add their own phone or app.
+2. **Reset the password** (or disable the account for a few hours if work can wait), and give the new one by phone or in person, never email. Then **sign out all sessions**, which also kills stolen sign-in tokens.
+3. **Reset MFA.** Remove every method and have the person re-register in person or on a verified call, because attackers often add their own phone or app.
 4. **Remove what the attacker added:** forwarding to outside addresses, rules that move or delete mail (some are hidden from Outlook, so have IT list them with admin tools), delegates, and app passwords, which a password reset doesn't revoke.
 5. **Disable unknown connected apps, then revoke their consent.** An app that's only deleted can return when someone approves it again.
-6. **For an admin account,** check for new admins, changed security settings, new app registrations, and mail flow rules that affect everyone.
+6. **For an admin account,** also check for new admins, changed settings, and mail flow rules that affect everyone.
 
 ## Checks
 
 - **How did they get in?** A phishing page that caught the password and MFA code, a reused password, an MFA prompt approved to make it stop, or a malicious app consent.
-- **What did they do?** Sent mail, searched for "invoice," "wire," or "W-2," downloaded files, or shared folders. The audit log shows this if logging was on.
-- **Did it spread?** Other accounts signing in from the same addresses, or phishing sent to colleagues and clients.
+- **What did they do?** If logging was on, the audit log shows mail sent, searches for "invoice," "wire," or "W-2," downloads, and shared folders.
+- **What could they read?** Years of client email often hold tax documents, IDs, and account numbers. If the audit log shows what was opened, scope notice to that. If not, treat everything the account could reach as exposed. See [notify](../runbook/notify.md).
 
-## Notification questions
-
-Years of client email often hold tax documents, IDs, account numbers, and health information. If the audit log shows what was opened, scope notice to that. If not, treat everything the account could reach as exposed, and work through [notify](../runbook/notify.md).
-
-## Prevent the next one
+## Prevent a repeat
 
 Use phishing-resistant MFA (passkeys or security keys), admins first. Block legacy sign-in methods. Alert on new forwarding rules and sign-ins from new countries. Keep at least 90 days of audit logs.
 

@@ -1,17 +1,17 @@
 ---
 title: Playbooks
-description: "Guidance for six incident types, to use alongside the runbook and your own response plan."
+description: "Six incident types, to use alongside the runbook and your own response plan."
 ---
 
-The [runbook](../runbook/index.md) gives the general response. Each playbook adds the first moves, checks, and notification questions for one kind of incident. Open the [first hour](../runbook/first-hour.md) and the matching playbook side by side.
+The [runbook](../runbook/index.md) gives the general response. Each playbook adds what's different for one kind of incident. Open the [first hour](../runbook/first-hour.md) and the matching playbook side by side. Each has a matching [tabletop exercise](../tabletops/index.md).
 
-| What happened | Playbook | Practice it |
-|---|---|---|
-| A payment went to a fraudster after an email about new bank details | [Business email compromise](business-email-compromise.md) | [The wire that wasn't](../tabletops/01-the-wire-that-wasnt.md) |
-| Files are locked and there's a ransom note | [Ransomware](ransomware.md) | [Monday morning ransom](../tabletops/02-monday-morning-ransom.md) |
-| A laptop or phone with work data is lost or stolen | [Lost or stolen device](lost-or-stolen-device.md) | [Left in the cab](../tabletops/03-left-in-the-cab.md) |
-| Someone else is signed in to a staff or admin account | [Compromised account](compromised-account.md) | [The forwarding rule](../tabletops/04-the-forwarding-rule.md) |
-| A vendor that holds your data says it was breached | [Vendor breach](vendor-breach.md) | [Our vendor got hacked](../tabletops/05-our-vendor-got-hacked.md) |
-| Client data was sent or shared with the wrong person | [Misdirected data](misdirected-data.md) | [Reply all](../tabletops/06-reply-all.md) |
+| What happened | Playbook |
+|---|---|
+| A payment went to a fraudster after an email about new bank details | [Business email compromise](business-email-compromise.md) |
+| Files are locked and there's a ransom note | [Ransomware](ransomware.md) |
+| A laptop or phone with work data is lost or stolen | [Lost or stolen device](lost-or-stolen-device.md) |
+| Someone else is signed in to a staff or admin account | [Compromised account](compromised-account.md) |
+| A vendor that holds your data says it was breached | [Vendor breach](vendor-breach.md) |
+| Client data was sent or shared with the wrong person | [Misdirected data](misdirected-data.md) |
 
 For a household or one person, Ready, Secure, Go has [playbooks](https://github.com/neon1llc/ready-secure-go/tree/main/content/playbooks) written for that setting.

@@ -1,19 +1,15 @@
 ---
 title: Response plan
-description: "A one-page incident response plan for a small business: goals, roles, authority, severity levels, communication, records, and review."
+description: "A one-page incident response plan: goals, roles, authority, severity levels, communication, records, and review."
 ---
 
 **Business:** ______________________ **Version:** ____ **Approved by:** ______________________ **Date:** ____________ **Last tested:** ____________ **Next review:** ____________
 
-## 1. Goals
+## 1. Goals and scope
 
-When something goes wrong, we will protect people and money first, keep the business running, preserve evidence, meet every notification duty on time, and learn from it.
+We will protect people and money first, keep the business running, preserve evidence, meet every notification duty on time, and learn from each incident. This plan covers every event that threatens our systems, data, or money, including incidents at vendors that hold our data. Systems and data covered: ______________________
 
-## 2. Scope
-
-This plan covers every event that threatens our systems, data, or money, including incidents at vendors that hold our data. Systems and data covered: ______________________
-
-## 3. Roles and authority
+## 2. Roles and authority
 
 | Role | Name | Backup | May decide |
 |---|---|---|---|
@@ -22,49 +18,40 @@ This plan covers every event that threatens our systems, data, or money, includi
 | Scribe | | | Keeps the incident log |
 | Communications | | | Sends approved messages to staff, clients, and others |
 
-Only the incident lead, with the lawyer, decides whether to notify anyone outside, and only the owner approves any ransom payment, after advice from the insurer and lawyer.
+Only the incident lead, with the lawyer, decides whether to notify anyone outside. Only the owner approves any ransom payment, after advice from the insurer and lawyer.
 
-## 4. Reporting
+## 3. Reporting
 
 Anyone who notices something unusual tells **______________________** at **______________________** right away and doesn't try to fix it. Nobody is blamed for reporting.
 
-## 5. Severity levels
+## 4. Severity levels
 
-| Level | When | Respond within |
-|---|---|---|
-| 1 Critical | Money moving, business stopped, or sensitive data about many people likely taken | 1 hour |
-| 2 High | Important account or system compromised, or sensitive data about some people exposed | Same day |
-| 3 Medium | One device or user, no sign of data taken | 1 business day |
-| 4 Low | Routine and already handled | Log it |
+Levels are defined in [is this an incident?](../runbook/is-this-an-incident.md). Respond within 1 hour for level 1, the same day for level 2, and 1 business day for level 3. Log level 4.
 
-## 6. How we respond
+## 5. How we respond and communicate
 
-We follow Incident Response for Small Teams: first hour, contain, investigate, notify, recover, learn. Playbooks are kept at: ______________________
-
-## 7. Communication
+We follow Incident Response for Small Teams. Playbooks are kept at: ______________________
 
 - **Backup channel** if email or chat is compromised: ______________________
 - **Contact sheet** location, printed and digital: ______________________
-- **Outside messages** are approved by the incident lead and lawyer before they go out.
+- Outside messages are approved by the incident lead and lawyer.
 
-## 8. Notification duties
-
-Rules and contracts that may require notice after an incident (see the notification rules reference):
+## 6. Notification duties
 
 - [ ] State breach laws where our clients and staff live: ______________________
 - [ ] Industry rules, such as the FTC Safeguards Rule, HIPAA, Regulation S-P, or 23 NYCRR 500: ______________________
-- [ ] Client contracts and business associate agreements with notice deadlines: ______________________
+- [ ] Client contracts with notice deadlines: ______________________
 - [ ] Cyber insurance notice requirement: within ______ hours or days
 
-## 9. Records
+## 7. Records
 
 The scribe logs every incident, including level 4. We keep logs, notification decisions, notices, and after-action reports for ______ years.
 
-## 10. Fixing weaknesses
+## 8. Fixing weaknesses
 
 Every level 1 or 2 incident gets an after-action review within two weeks. Each fix gets an owner and a date, tracked at: ______________________
 
-## 11. Testing and review
+## 9. Testing and review
 
 We run a tabletop exercise at least yearly. We review this plan after every level 1 or 2 incident, every exercise, and any big change to staff or systems.
 

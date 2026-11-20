@@ -1,9 +1,7 @@
 ---
 title: Vendor breach
-description: "A software provider, IT company, or other vendor that holds or reaches your data says it was breached: find your exposure, cut shared access, and know whose job notification is."
+description: "A vendor that holds or reaches your data says it was breached: find your exposure, cut shared access, and settle who notifies."
 ---
-
-**Signs:** a notice from a vendor, news of a breach at a provider you use, or odd activity traced to an IT provider's remote tools.
 
 ## First moves
 
@@ -16,15 +14,11 @@ description: "A software provider, IT company, or other vendor that holds or rea
 
 - What does this vendor hold or reach? Use your system list from [get ready](../runbook/get-ready.md).
 - Did the vendor's accounts or tools touch your systems during the breach window?
-- Do your contracts or business associate agreements say who notifies whom, and by when?
+- Do your contracts say who notifies whom, and by when?
 
 ## Who notifies
 
-Usually the business with the relationship to the people affected gives the notice, and the vendor must tell that business. If you hold client data and your vendor lost it, notifying clients may be your job. If you hold data for a client, you tell the client. Settle it in writing with your lawyer, then work through [notify](../runbook/notify.md).
-
-## Prevent the next one
-
-Know which vendors hold what. Put breach notice deadlines, in hours or days, in contracts. Give vendors only the access they need, and review it yearly.
+Usually the business with the relationship to the people affected gives the notice, and the vendor must tell that business. If you hold client data and your vendor lost it, notifying clients may be your job. Settle it in writing with your lawyer, then work through [notify](../runbook/notify.md).
 
 ## Sources
 
